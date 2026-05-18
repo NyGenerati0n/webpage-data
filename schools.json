@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T09:54:10.043Z",
-  "syncedAt": "2026-05-18T09:54:04.661Z",
+  "generatedAt": "2026-05-18T10:01:24.431Z",
+  "syncedAt": "2026-05-18T10:01:15.052Z",
   "schools": [
     {
       "id": 2025,
@@ -18861,9 +18861,9 @@
       "name": "Kunskapsskolan ENKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "Ö. Järnvägsgatan 8",
-        "city": "ENKÖPING",
-        "postalCode": 74537,
+        "street": "Friggavägen 1",
+        "city": "Enköping",
+        "postalCode": 74569,
         "country": "Sverige",
         "countryCode": "SE"
       },
