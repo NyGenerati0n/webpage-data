@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-18T09:04:09.912Z",
-  "syncedAt": "2026-05-18T09:04:06.256Z",
+  "generatedAt": "2026-05-18T09:11:19.079Z",
+  "syncedAt": "2026-05-18T09:11:11.042Z",
   "schools": [
     {
       "id": 2025,
@@ -41,27 +41,8 @@
       ]
     },
     {
-      "id": 2044,
-      "name": "Katedralskolan, Linköping",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Platensgatan 20",
-        "city": "LINKÖPING",
-        "postalCode": 58220,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Katedralskolan, Linköping",
-          "coach": "Saga Boström"
-        }
-      ]
-    },
-    {
       "id": 2046,
-      "name": "Folkungaskolan gymnasium",
+      "name": "Folkungaskolan gymnasium LINKÖPING",
       "type": "Gymnasium",
       "adress": {
         "street": "Folkungagatan 20",
@@ -98,27 +79,8 @@
       ]
     },
     {
-      "id": 2055,
-      "name": "Grenadjärskolan ÖREBRO",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Pionjärgatan 3",
-        "city": "ÖREBRO",
-        "postalCode": 70381,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Grenadjärskolan ÖREBRO",
-          "coach": "Saga Boström"
-        }
-      ]
-    },
-    {
       "id": 2066,
-      "name": "Bäckadalsgymnasiet",
+      "name": "Bäckadalsgymnasiet JÖNKÖPING",
       "type": "Gymnasium",
       "adress": {
         "street": "Åsenvägen 11",
@@ -130,7 +92,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Bäckadalsgymnasiet JÖNKÖPING",
+          "name": "NG Bäckadal JÖNKÖPING",
           "coach": "Lydia Nyström"
         }
       ]
@@ -155,27 +117,8 @@
       ]
     },
     {
-      "id": 2097,
-      "name": "Strömbackaskolan Piteå",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Svartuddsvägen 1",
-        "city": "PITEÅ",
-        "postalCode": 94150,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Strömbackaskolan Piteå",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
       "id": 2104,
-      "name": "Fryshusets gymnasium STOCKHOLM",
+      "name": "Fryshuset Gymnasium STOCKHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Mårtensdalsgatan  2-8",
@@ -187,14 +130,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Fryshusets gymnasium STOCKHOLM",
+          "name": "NG Fryshuset Gymnasium STOCKHOLM",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 2132,
-      "name": "Linköpings universitet Campus Valla",
+      "name": "Linköpings universitet Campus Valla LINKÖPING",
       "type": "Högskola/Universitet",
       "adress": {
         "street": "Linköpings universitet",
@@ -269,27 +212,8 @@
       ]
     },
     {
-      "id": 2298,
-      "name": "Södertörns Högskola",
-      "type": "Högskola/Universitet",
-      "adress": {
-        "street": "Alfred Nobels Allé  7",
-        "city": "HUDDINGE",
-        "postalCode": 14152,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Södertörns Högskola",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
       "id": 5044,
-      "name": "Bergums skola F-9 Olofstorp",
+      "name": "Bergumsskolan F-9 OLOFSTORP",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Lerumsvägen 20",
@@ -301,8 +225,27 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Bergums skola F-9 Olofstorp",
+          "name": "NG Bergumsskolan F-9 OLOFSTORP",
           "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
+      "id": 5181,
+      "name": "Flahultsskolan 6-9",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Vallgatan",
+        "city": "NORRAHAMMAR",
+        "postalCode": 56232,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Flahultsskolan 7-9 NORRAHAMMAR",
+          "coach": "Lydia Nyström"
         }
       ]
     },
@@ -321,44 +264,6 @@
       "groups": [
         {
           "name": "NG Furulundsskolan MARIANNELUND",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 6749,
-      "name": "Vallaskolan F-9 Frösön",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Önevägen 147",
-        "city": "FRÖSÖN",
-        "postalCode": 83253,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Vallaskolan F-9 FRÖSÖN",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 4494,
-      "name": "Nils Fredriksson Gymnasium",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Börringevägen 10",
-        "city": "SVEDALA",
-        "postalCode": 23380,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Nils Fredriksson Gymnasium SVEDALA",
           "coach": "Lydia Nyström"
         }
       ]
@@ -383,39 +288,20 @@
       ]
     },
     {
-      "id": 2151,
-      "name": "Malmö Latinskola",
+      "id": 1640,
+      "name": "Nicolaiskolan HELSINGBORG",
       "type": "Gymnasium",
       "adress": {
-        "street": "Drottninggatan 22",
-        "city": "MALMÖ",
-        "postalCode": 21149,
+        "street": "Studievägen 2",
+        "city": "HELSINGBORG",
+        "postalCode": 25247,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Malmö Latin MALMÖ",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 2171,
-      "name": "Söderportgymnasiet",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Västra Boulevarden 53",
-        "city": "KRISTIANSTAD",
-        "postalCode": 29131,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Söderportgymnasiet KRISTIANSTAD",
+          "name": "NG Nicolaiskolan HELSINGBORG",
           "coach": "Lydia Nyström"
         }
       ]
@@ -459,8 +345,27 @@
       ]
     },
     {
+      "id": 7062,
+      "name": "Enebyskolan NORRKÖPING",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Taborsbergsvägen 83",
+        "city": "NORRKÖPING",
+        "postalCode": 60208,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Enebyskolan NORRKÖPING",
+          "coach": "Saga Boström"
+        }
+      ]
+    },
+    {
       "id": 6509,
-      "name": "Minerva Gymnasium Umeå",
+      "name": "Minervagymnasium UMEÅ",
       "type": "Gymnasium",
       "adress": {
         "street": "Gösta Skoglunds väg 2",
@@ -472,14 +377,33 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Minerva Gymnasium UMEÅ",
+          "name": "NG Minervagymnasium UMEÅ",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
+      "id": 6511,
+      "name": "Minervaskolan UMEÅ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Nygatan 47",
+        "city": "UMEÅ",
+        "postalCode": 90330,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Minervaskolan UMEÅ",
           "coach": "Maja Karlsson"
         }
       ]
     },
     {
       "id": 7805,
-      "name": "S:t Iliansskolan Enköping",
+      "name": "S:t Iliansskolan ENKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "BOX 194",
@@ -491,14 +415,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG S:t Iliansskolan Enköping",
+          "name": "NG S:t Iliansskolan ENKÖPING",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 2800,
-      "name": "Katarinaskolan Uppsala",
+      "name": "Katarinaskolan UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Nedre Slottsgatan 8",
@@ -510,7 +434,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Katarinaskolan Uppsala",
+          "name": "NG Katarinaskolan UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -529,33 +453,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG i byggnad 3 UPPSALA",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
-      "id": 2857,
-      "name": "Kunskapsgymnasiet Uppsala",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Dag Hammarskjölds väg  21",
-        "city": "UPPSALA",
-        "postalCode": 75237,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Kunskapsgymnasiet Uppsala",
+          "name": "NG i byggnad 3, NTI Gymnasiet, UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 2862,
-      "name": "Hagabodaskolan",
+      "name": "Hagabodaskolan HABO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Kapellgatan 1",
@@ -567,7 +472,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Hagabodaskolan HABO",
+          "name": "NG Hagaboda HABO",
           "coach": "Lydia Nyström"
         }
       ]
@@ -592,8 +497,27 @@
       ]
     },
     {
+      "id": 1506,
+      "name": "Ådalsskolan KRAMFORS",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Limstavägen 22",
+        "city": "KRAMFORS",
+        "postalCode": 87230,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Ådalsskolan KRAMFORS",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
       "id": 1508,
-      "name": "Nolaskolan Örnsköldsvik",
+      "name": "Nolaskolan ÖRNSKÖLDSVIK",
       "type": "Gymnasium",
       "adress": {
         "street": "Viktoriaesplanaden.  31",
@@ -612,7 +536,7 @@
     },
     {
       "id": 1509,
-      "name": "Parkskolan",
+      "name": "Parkskolan ÖRNSKÖLDSVIK",
       "type": "Gymnasium",
       "adress": {
         "street": "Vintergatan 17",
@@ -649,6 +573,25 @@
       ]
     },
     {
+      "id": 1553,
+      "name": "Dragonskolan Umeå",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Dragongatan  1",
+        "city": "UMEÅ",
+        "postalCode": 90322,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Dragonskolan UMEÅ",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
       "id": 1554,
       "name": "Midgårdsskolan Umeå",
       "type": "Gymnasium",
@@ -669,7 +612,7 @@
     },
     {
       "id": 1569,
-      "name": "Celsiusskolan Uppsala",
+      "name": "Celsiusskolan UPPSALA",
       "type": "Gymnasium",
       "adress": {
         "street": "Björkgatan 8",
@@ -687,8 +630,27 @@
       ]
     },
     {
+      "id": 1601,
+      "name": "Nolhagaskolan (6-9) ALINGSÅS",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Nolhaga Allé",
+        "city": "ALINGSÅS",
+        "postalCode": 44155,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Nolhagaskolan (6-9) ALINGSÅS",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
       "id": 1608,
-      "name": "Arlandagymnasiet",
+      "name": "Arlandagymnasiet STOCKHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Vikingavägen  2",
@@ -700,7 +662,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Arlandagymnasiet",
+          "name": "NG Arlandagymnasiet STOCKHOLM",
           "coach": "Hanna Johansson"
         }
       ]
@@ -726,7 +688,7 @@
     },
     {
       "id": 1621,
-      "name": "Ribbaskolan 7-9",
+      "name": "Ribbaskolan 7-9 GRÄNNA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Gärdesvägen 3",
@@ -744,8 +706,27 @@
       ]
     },
     {
+      "id": 1623,
+      "name": "Högskolan i Gävle",
+      "type": "Högskola/Universitet",
+      "adress": {
+        "street": "Kungsbäcksv.  47",
+        "city": "GÄVLE",
+        "postalCode": 80176,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Högskolan i Gävle",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
       "id": 1631,
-      "name": "Hvitfeldtska gymnasiet Göteborg",
+      "name": "Hvitfeldtska gymnasiet GÖTEBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Rektorsgatan 2",
@@ -757,14 +738,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Hvitfeldtska gymnasiet Göteborg",
+          "name": "NG Hvitfeldtska gymnasiet GÖTEBORG",
           "coach": "Maja Karlsson"
         }
       ]
     },
     {
       "id": 1643,
-      "name": "Bromangymnasiet Hudiksvall",
+      "name": "Bromangymnasiet HUDIKSVALL",
       "type": "Gymnasium",
       "adress": {
         "street": "Gymnasievägen 4 D",
@@ -783,7 +764,7 @@
     },
     {
       "id": 1651,
-      "name": "Erik Dahlbergsgymnasiet",
+      "name": "Erik Dahlbergsgymnasiet JÖNKÖPING",
       "type": "Gymnasium",
       "adress": {
         "street": "Föreningsgatan 2",
@@ -802,7 +783,7 @@
     },
     {
       "id": 1655,
-      "name": "Per Brahegymnasiet",
+      "name": "Per Brahegymnasiet JÖNKÖPING",
       "type": "Gymnasium",
       "adress": {
         "street": "Residensgatan 7",
@@ -840,7 +821,7 @@
     },
     {
       "id": 1659,
-      "name": "Jenny Nyströmsskolan",
+      "name": "Jenny Nyströmsskolan KALMAR",
       "type": "Gymnasium",
       "adress": {
         "street": "Smålandsgatan 25",
@@ -854,44 +835,6 @@
         {
           "name": "NG Jenny Nyström KALMAR",
           "coach": "Saga Boström"
-        }
-      ]
-    },
-    {
-      "id": 1663,
-      "name": "Leksands Gymnasium",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Rättviksvägen  29",
-        "city": "LEKSAND",
-        "postalCode": 79380,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Skalman Leksands Gymnasium",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 1668,
-      "name": "Stenbackaskolan ASARUM",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Stenbackavägen  10",
-        "city": "ASARUM",
-        "postalCode": 37453,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Stenbackaskolan ASARUM",
-          "coach": "Lydia Nyström"
         }
       ]
     },
@@ -910,25 +853,6 @@
       "groups": [
         {
           "name": "Shalom Bäckängsgymnasiet BORÅS",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 1681,
-      "name": "Sven Eriksonsgymnasiet BORÅS",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Sven Eriksonsplatsen",
-        "city": "BORÅS",
-        "postalCode": 50338,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Arken Sven Eriksonsgymnasiet BORÅS",
           "coach": "Maja Karlsson"
         }
       ]
@@ -972,46 +896,8 @@
       ]
     },
     {
-      "id": 1731,
-      "name": "Lagmansskolan 4-9",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Lagmansgatan 34",
-        "city": "MJÖLBY",
-        "postalCode": 59552,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Lagmansskolan 4-9",
-          "coach": "Saga Boström"
-        }
-      ]
-    },
-    {
-      "id": 1738,
-      "name": "De Geergymnasiet",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Nygatan  68",
-        "city": "NORRKÖPING",
-        "postalCode": 60234,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG De Geergymnasiet",
-          "coach": "Saga Boström"
-        }
-      ]
-    },
-    {
       "id": 2418,
-      "name": "Withalaskolan",
+      "name": "Withalaskolan VETLANDA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Nygatan 30",
@@ -1030,7 +916,7 @@
     },
     {
       "id": 2439,
-      "name": "Thorildsplans Gymnasium",
+      "name": "Thorildsplans Gymnasium STOCKHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Drottningholmsvägen  82",
@@ -1042,45 +928,26 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Thorildsplans Gymnasium",
+          "name": "NG Thorildsplans Gymnasium STOCKHOLM",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
-      "id": 2458,
-      "name": "Strandskolan F-9 JÖNKÖPING",
+      "id": 2487,
+      "name": "Strömsnässkolan STRÖMSNÄSBRUK",
       "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "Kortebo gård 7",
-        "city": "JÖNKÖPING",
-        "postalCode": 55594,
+        "street": "Järnvägsgatan 51",
+        "city": "STRÖMSNÄSBRUK",
+        "postalCode": 28731,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Strandskolan F-9 JÖNKÖPING",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 2465,
-      "name": "Linnéuniversitetet Växjö",
-      "type": "Högskola/Universitet",
-      "adress": {
-        "street": "Universitetsplatsen 1",
-        "city": "VÄXJÖ",
-        "postalCode": 35252,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Linnéuniversitetet VÄXJÖ",
+          "name": "NG Strömsnässkolan STRÖMSNÄSBRUK",
           "coach": "Lydia Nyström"
         }
       ]
@@ -1105,27 +972,8 @@
       ]
     },
     {
-      "id": 2530,
-      "name": "Sävsjö kristna skola",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Storgatan 9",
-        "city": "SÄVSJÖ",
-        "postalCode": 57622,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Sävsjö kristna skola SÄVSJÖ",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
       "id": 2640,
-      "name": "Möckelngymnasiet",
+      "name": "Möckelngymnasiet KARLSKOGA",
       "type": "Gymnasium",
       "adress": {
         "street": "Mårbackavägen",
@@ -1162,65 +1010,8 @@
       ]
     },
     {
-      "id": 5903,
-      "name": "Stadsgårdsskolan 7-9 JÖNKÖPING",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Pärlugglegatan  11",
-        "city": "JÖNKÖPING",
-        "postalCode": 55611,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Stadsgårdsskolan 7-9 JÖNKÖPING",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 5930,
-      "name": "Sturegymnasiet",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Engelbrektsgatan 36",
-        "city": "HALMSTAD",
-        "postalCode": 30266,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Sturegymnasiet HALMSTAD",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 5954,
-      "name": "Södergårdsskolan F-6 HUSKVARNA",
-      "type": "Lägre grundskola (F-6)",
-      "adress": {
-        "street": "Storgatan 10",
-        "city": "HUSKVARNA",
-        "postalCode": 56142,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Södergårdsskolan F-6 HUSKVARNA",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
       "id": 3243,
-      "name": "JENSEN Gymnasium Gamla stan",
+      "name": "JENSEN Gymnasium Gamla stan STOCKHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Katarina Bangata 79",
@@ -1238,27 +1029,8 @@
       ]
     },
     {
-      "id": 3268,
-      "name": "Ljud & Bildskolan LBS Stockholm",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Högbergsgatan 62",
-        "city": "STOCKHOLM",
-        "postalCode": 11854,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Ljud & Bildskolan LBS STOCKHOLM",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
       "id": 1749,
-      "name": "Brinellgymnasiet",
+      "name": "Brinellgymnasiet NÄSSJÖ",
       "type": "Gymnasium",
       "adress": {
         "street": "Brinellgatan 52",
@@ -1277,7 +1049,7 @@
     },
     {
       "id": 1754,
-      "name": "Oscarsgymnasiet",
+      "name": "Oscarsgymnasiet OSKARSHAMN",
       "type": "Gymnasium",
       "adress": {
         "street": "Stengatan 21",
@@ -1333,8 +1105,27 @@
       ]
     },
     {
+      "id": 1788,
+      "name": "Hannaskolan UMEÅ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Aktrisgränd 31",
+        "city": "UMEÅ",
+        "postalCode": 90364,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Hannaskolan UMEÅ",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
       "id": 1795,
-      "name": "Rosendalsgymnasiet",
+      "name": "Rosendalsgymnasiet UPPSALA",
       "type": "Gymnasium",
       "adress": {
         "street": "Husargatan 8",
@@ -1346,14 +1137,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Rosendalsgymnasiet",
+          "name": "NG Rosendalsgymnasiet UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 1799,
-      "name": "Katedralskolan, Uppsala",
+      "name": "Katedralskolan UPPSALA",
       "type": "Gymnasium",
       "adress": {
         "street": "Skolgatan  2",
@@ -1372,7 +1163,7 @@
     },
     {
       "id": 1812,
-      "name": "Njudungsgymnasiet",
+      "name": "Njudungsgymnasiet VETLANDA",
       "type": "Gymnasium",
       "adress": {
         "street": "Norrvägen 6",
@@ -1385,25 +1176,6 @@
       "groups": [
         {
           "name": "NG Njudungsgymnasiet VETLANDA",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 1826,
-      "name": "Katedralskolan, Växjö",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Samuel Ödmans väg  1",
-        "city": "VÄXJÖ",
-        "postalCode": 35233,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Katedralskolan, VÄXJÖ",
           "coach": "Lydia Nyström"
         }
       ]
@@ -1429,7 +1201,7 @@
     },
     {
       "id": 1830,
-      "name": "Finnvedens gymnasium",
+      "name": "Finnvedens gymnasium VÄRNAMO",
       "type": "Gymnasium",
       "adress": {
         "street": "Prostgårdsvägen 3",
@@ -1441,14 +1213,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Finnvedens gymnasium VÄRNAMO",
+          "name": "NG JAM Finnvedens gymnasium VÄRNAMO",
           "coach": "Lydia Nyström"
         }
       ]
     },
     {
       "id": 1842,
-      "name": "Karolinska Gymnasiet",
+      "name": "Karolinska Gymnasiet ÖREBRO",
       "type": "Gymnasium",
       "adress": {
         "street": "Olaigatan 25",
@@ -1479,14 +1251,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Holavedsgymnasiet TRANÅS",
+          "name": "Eklesia TRANÅS",
           "coach": "Lydia Nyström"
         }
       ]
     },
     {
       "id": 1846,
-      "name": "Rudbecksgymnasiet, Örebro",
+      "name": "Rudbecksgymnasiet ÖREBRO",
       "type": "Gymnasium",
       "adress": {
         "street": "Kungsgatan 31",
@@ -1498,14 +1270,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Rudbecks gymnasiet, Örebro",
+          "name": "NG Rudbecks gymnasiet ÖREBRO",
           "coach": "Saga Boström"
         }
       ]
     },
     {
       "id": 1849,
-      "name": "Virginska Gymnasiet",
+      "name": "Virginska Gymnasiet ÖREBRO",
       "type": "Gymnasium",
       "adress": {
         "street": "Fabriksgatan 52",
@@ -1524,7 +1296,7 @@
     },
     {
       "id": 1875,
-      "name": "Rudbecksskolan, Sollentuna",
+      "name": "Rudbecksskolan SOLLENTUNA",
       "type": "Gymnasium",
       "adress": {
         "street": "Malla Silfverstolpes v.",
@@ -1536,7 +1308,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Rudbecksskolan, Sollentuna",
+          "name": "NG Rudbecksskolan SOLLENTUNA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1562,7 +1334,7 @@
     },
     {
       "id": 1887,
-      "name": "Gnosjöandans kunskapscentrum",
+      "name": "Gnosjöandans kunskapscentrum GNOSJÖ",
       "type": "Gymnasium",
       "adress": {
         "street": "Fritidsvägen 4",
@@ -1574,14 +1346,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Gnosjöandans kunskapscentrum GNOSJÖ",
+          "name": "Lejon av Juda GNOSJÖ",
           "coach": "Lydia Nyström"
         }
       ]
     },
     {
       "id": 1901,
-      "name": "Luspengymnasiet Storuman",
+      "name": "Luspengymnasiet STORUMAN",
       "type": "Gymnasium",
       "adress": {
         "street": "Skolgatan 20",
@@ -1593,27 +1365,8 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Luspengymnasiet Storuman",
+          "name": "NG Luspengymnasiet STORUMAN",
           "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 1954,
-      "name": "Upplands-Brogymnasiet",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Skolvägen 24",
-        "city": "KUNGSÄNGEN",
-        "postalCode": 19634,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Upplands-Brogymnasiet",
-          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1638,19 +1391,19 @@
     },
     {
       "id": 1964,
-      "name": "Lundellska skolan Uppsala",
+      "name": "Lundellska skolan UPPSALA",
       "type": "Gymnasium",
       "adress": {
-        "street": "Lägerhyddsv.  36",
-        "city": "UPPSALA",
-        "postalCode": 75643,
+        "street": "Lägerhyddsvägen 2",
+        "city": "Uppsala",
+        "postalCode": 75237,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Lundellska skolan Uppsala",
+          "name": "NG Lundellska skolan UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1671,6 +1424,25 @@
         {
           "name": "NG Norra Real STOCKHOLM",
           "coach": "Hanna Johansson"
+        }
+      ]
+    },
+    {
+      "id": 2342,
+      "name": "Aroseniusskolan (7-9) ÄLVÄNGEN",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Vallmovägen",
+        "city": "ÄLVÄNGEN",
+        "postalCode": 44635,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Aroseniusskolan (7-9) ÄLVÄNGEN",
+          "coach": "Maja Karlsson"
         }
       ]
     },
@@ -1751,44 +1523,6 @@
       ]
     },
     {
-      "id": 2722,
-      "name": "JENSEN Gymnasium Norra",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Tulegatan 44",
-        "city": "STOCKHOLM",
-        "postalCode": 11353,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG JENSEN Gymnasium Norra STOCKHOLM",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
-      "id": 2725,
-      "name": "Falu Frigymnasium",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Nybrogatan 20 B",
-        "city": "FALUN",
-        "postalCode": 79172,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Falu Frigymnasium FALUN",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
       "id": 2741,
       "name": "Kunskapskällan HERRLJUNGA",
       "type": "Gymnasium",
@@ -1808,8 +1542,27 @@
       ]
     },
     {
+      "id": 2786,
+      "name": "Schillerska gymnasiet GÖTEBORG",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Vasagatan 19",
+        "city": "GÖTEBORG",
+        "postalCode": 41124,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Schillerska gymnasiet GÖTEBORG",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
       "id": 2793,
-      "name": "S:t Eskilsgymnasiet",
+      "name": "S:t Eskilsgymnasiet ESKILSTUNA",
       "type": "Gymnasium",
       "adress": {
         "street": "Smedjegatan 3-5",
@@ -1827,27 +1580,27 @@
       ]
     },
     {
-      "id": 3004,
-      "name": "Danderyds gymnasium",
+      "id": 3731,
+      "name": "Täby Enskilda gymnasium TÄBY",
       "type": "Gymnasium",
       "adress": {
-        "street": "Rinkebyvägen 4",
-        "city": "DANDERYD",
-        "postalCode": 18236,
+        "street": "Kemistvägen 1",
+        "city": "TÄBY",
+        "postalCode": 18728,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Danderyds gymnasium STOCKHOLM",
+          "name": "NG Täby Enskilda gymnasium TÄBY",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 3969,
-      "name": "Calmare Internationella Skola (CIS)",
+      "name": "Calmare Internationella Skola (CIS) KALMAR",
       "type": "Gymnasium",
       "adress": {
         "street": "Malmbrogatan 911 -",
@@ -1859,14 +1612,33 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Calmare Internationella Skola (CIS)",
+          "name": "NG Calmare Internationella Skola (CIS) KALMAR",
           "coach": "Saga Boström"
         }
       ]
     },
     {
+      "id": 4204,
+      "name": "Huneskolan MARKARYD",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Östergatan 20",
+        "city": "MARKARYD",
+        "postalCode": 28531,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Huneskolan MARKARYD",
+          "coach": "Lydia Nyström"
+        }
+      ]
+    },
+    {
       "id": 4362,
-      "name": "Lars Kaggskolan",
+      "name": "Lars Kaggskolan KALMAR",
       "type": "Gymnasium",
       "adress": {
         "street": "Lorensbergsgatan 56",
@@ -1885,7 +1657,7 @@
     },
     {
       "id": 5549,
-      "name": "Lerums Gymnasium",
+      "name": "Lerums Gymnasium LERUM",
       "type": "Gymnasium",
       "adress": {
         "street": "Alingsåsvägen 9",
@@ -1897,26 +1669,26 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Lerums Gymnasium",
+          "name": "NG Lerums Gymnasium LERUM",
           "coach": "Maja Karlsson"
         }
       ]
     },
     {
-      "id": 5680,
-      "name": "Nifsarpsskolan",
-      "type": "Gymnasium",
+      "id": 5703,
+      "name": "Norråsaskolan",
+      "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "Nifsarpsvägen 4",
-        "city": "EKSJÖ",
-        "postalCode": 57580,
+        "street": "Prästgatan 15",
+        "city": "NÄSSJÖ",
+        "postalCode": 57132,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Nifsarpsskolan EKSJÖ",
+          "name": "NG Norråsaskolan NÄSSJÖ",
           "coach": "Lydia Nyström"
         }
       ]
@@ -1941,46 +1713,46 @@
       ]
     },
     {
-      "id": 6426,
-      "name": "Kastellskolan Härnösand",
-      "type": "Övre grundskola (7-9)",
+      "id": 6417,
+      "name": "Jävre skola JÄVRE",
+      "type": "Lägre grundskola (F-6)",
       "adress": {
-        "street": "Kristinagatan 2",
-        "city": "HÄRNÖSAND",
-        "postalCode": 87129,
+        "street": "Skolbackevägen 25",
+        "city": "JÄVREBYN",
+        "postalCode": 94494,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Kastellskolan Härnösand",
+          "name": "NG Jävre skola JÄVRE",
           "coach": "Maja Karlsson"
         }
       ]
     },
     {
-      "id": 6575,
-      "name": "Parkskolan 6-9",
-      "type": "Övre grundskola (7-9)",
+      "id": 6609,
+      "name": "Rymdgymnasiet KIRUNA",
+      "type": "Gymnasium",
       "adress": {
-        "street": "Krondikesvägen 1",
-        "city": "ÖSTERSUND",
-        "postalCode": 83136,
+        "street": "Campingvägen 3",
+        "city": "KIRUNA",
+        "postalCode": 98135,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Parkskolan 6-9 ÖSTERSUND",
+          "name": "NG Rymdgymnasiet KIRUNA",
           "coach": "Maja Karlsson"
         }
       ]
     },
     {
       "id": 6907,
-      "name": "Björkvallsskolan Uppsala",
+      "name": "Björkvallsskolan UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "BOX 26",
@@ -1992,7 +1764,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Björkvallsskolan Uppsala",
+          "name": "NG Björkvallsskolan UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -2017,46 +1789,8 @@
       ]
     },
     {
-      "id": 7391,
-      "name": "Karlsängsskolan",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Tingshuset",
-        "city": "NORA",
-        "postalCode": 71380,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Karlsängsskolan NORA",
-          "coach": "Saga Boström"
-        }
-      ]
-    },
-    {
-      "id": 7418,
-      "name": "Korsängsskolan",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Korsängsgatan 10",
-        "city": "ENKÖPING",
-        "postalCode": 74949,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Korsängsskolan Enköping",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
       "id": 7440,
-      "name": "Kunskapsskolan Uppsala",
+      "name": "Kunskapsskolan UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Dag Hammarskjölds väg 31",
@@ -2068,14 +1802,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Kunskapsskolan Uppsala",
+          "name": "NG Kunskapsskolan UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 7754,
-      "name": "Realgymnasiet Uppsala",
+      "name": "Realgymnasiet UPPSALA",
       "type": "Gymnasium",
       "adress": {
         "street": "Kungsängsgatan 12",
@@ -2088,25 +1822,6 @@
       "groups": [
         {
           "name": "NG Realgymnasiet UPPSALA",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
-      "id": 8433,
-      "name": "Realgymnasiet Stockholm",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Trekantsvägen 1",
-        "city": "STOCKHOLM",
-        "postalCode": 11743,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Realgymnasiet Stockholm",
           "coach": "Hanna Johansson"
         }
       ]
@@ -2132,7 +1847,7 @@
     },
     {
       "id": 8624,
-      "name": "Örebro Universitet",
+      "name": "Örebro universitet ÖREBRO",
       "type": "Högskola/Universitet",
       "adress": {
         "street": "Fakultetsgatan 1",
@@ -2144,45 +1859,45 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Örebro Universitet ÖREBRO",
+          "name": "NG Örebro universitet ÖREBRO",
           "coach": "Saga Boström"
         }
       ]
     },
     {
-      "id": 8627,
-      "name": "Ilandaskolan KARLSTAD",
+      "id": 8310,
+      "name": "Internationella Engelska skolan 1-9 HUSKVARNA",
       "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "Ilandavägen 50",
-        "city": "Karlstad",
-        "postalCode": 65350,
+        "street": "Birkagatan  41",
+        "city": "HUSKVARNA",
+        "postalCode": 56133,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Ilandaskolan KARLSTAD",
-          "coach": "Maja Karlsson"
+          "name": "NG Internationella Engelska skolan 1-9 HUSKVARNA",
+          "coach": "Lydia Nyström"
         }
       ]
     },
     {
-      "id": 8227,
-      "name": "Hagströmska gymnasiet Falun",
-      "type": "Gymnasium",
+      "id": 8331,
+      "name": "Vittra Gerdsken (F-9)",
+      "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "Gruvgatan 2",
-        "city": "FALUN",
-        "postalCode": 79162,
+        "street": "Lärkvägen 10",
+        "city": "ALINGSÅS",
+        "postalCode": 44140,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Hagströmska gymnasiet FALUN",
+          "name": "NG Vittra Gerdsken (F-9)",
           "coach": "Maja Karlsson"
         }
       ]
@@ -2207,21 +1922,59 @@
       ]
     },
     {
-      "id": 8790,
-      "name": "Drottning Blankas Gymnasieskola GÖTEBORG",
-      "type": "Gymnasium",
+      "id": 8733,
+      "name": "Stureskolan BODEN",
+      "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "Köpmansgatan 12",
-        "city": "GÖTEBORG",
-        "postalCode": 41113,
+        "street": "Sturegatan 11",
+        "city": "BODEN",
+        "postalCode": 96133,
         "country": "Sverige",
         "countryCode": "SE"
       },
       "isActive": true,
       "groups": [
         {
-          "name": "NG Drottning Blankas Gymnasieskola GÖTEBORG",
+          "name": "NG Stureskolan BODEN",
           "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
+      "id": 8811,
+      "name": "Kunskapsskolan 6-9 GÄVLE",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Rynningsgatan 2",
+        "city": "GÄVLE",
+        "postalCode": 80256,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Kunskapsskolan 6-9 GÄVLE",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
+      "id": 8875,
+      "name": "Internationella Engelska Skolan HUDDINGE",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Regulatorvägen 11",
+        "city": "HUDDINGE",
+        "postalCode": 14149,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Internationella Engelska Skolan HUDDINGE",
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -2265,7 +2018,7 @@
     },
     {
       "id": 8906,
-      "name": "PA Fogelströms gymnasium",
+      "name": "PA Fogelströms gymnasium STOCKHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Stigbergsgatan 26",
@@ -2277,14 +2030,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG PA Fogelströms gymnasium",
+          "name": "NG PA Fogelströms gymnasium STOCKHOLM",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 8923,
-      "name": "Kyrkskolan (Ansgarskolorna) UPPSALA",
+      "name": "Ansgarskolorna (7-9) UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Axel Johanssons gata 4",
@@ -2296,14 +2049,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Kyrkskolan (Ansgarskolorna) UPPSALA",
+          "name": "NG Ansgarskolorna (7-9) UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 8929,
-      "name": "Klara Teoretiska gymnasium Göteborg",
+      "name": "Klara Teoretiska Gymnasium GÖTEBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Postgatan 5",
@@ -2322,7 +2075,7 @@
     },
     {
       "id": 8937,
-      "name": "Alirskolan Bollnäs",
+      "name": "Alirskolan BOLLNÄS",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Alirgatan 17",
@@ -2334,33 +2087,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Alirskolan Bollnäs",
+          "name": "NG Alirskolan BOLLNÄS",
           "coach": "Maja Karlsson"
         }
       ]
     },
     {
-      "id": 8963,
-      "name": "JENSEN grundskola Örebro",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Rudbecksgatan 36",
-        "city": "ÖREBRO",
-        "postalCode": 70223,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG JENSEN grundskola Örebro",
-          "coach": "Saga Boström"
-        }
-      ]
-    },
-    {
       "id": 8997,
-      "name": "Pops Academy Karl Johan",
+      "name": "Pops Academy Karl Johan ÖREBRO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Älvtomtagatan 56",
@@ -2378,46 +2112,8 @@
       ]
     },
     {
-      "id": 9004,
-      "name": "Gullhögsskolan (7-9) Vårgårda",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Parkgatan 18",
-        "city": "VÅRGÅRDA",
-        "postalCode": 44731,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Gullhögsskolan (7-9) Vårgårda",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 9007,
-      "name": "Amerikanska Gymnasiet Uppsala",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Sysslomansgatan 39",
-        "city": "UPPSALA",
-        "postalCode": 75227,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Amerikanska Gymnasiet UPPSALA",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
       "id": 9014,
-      "name": "Väggaskolan",
+      "name": "Vägga gymnasieskola",
       "type": "Gymnasium",
       "adress": {
         "street": "Väggavägen 2",
@@ -2429,27 +2125,8 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Väggaskolan KARLSHAMN",
+          "name": "NG Vägga gymnasieskola KARLSHAMN",
           "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 9016,
-      "name": "S:t Lars Gymnasium",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Sankt Larsgatan 26",
-        "city": "LINKÖPING",
-        "postalCode": 58224,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG S:t Lars Gymnasium LINKÖPING",
-          "coach": "Saga Boström"
         }
       ]
     },
@@ -2469,44 +2146,6 @@
         {
           "name": "NG Brogymnasiet KRISTINEHAMN",
           "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 9027,
-      "name": "Mimers Hus gymnasium Kungälv",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Trollhättevägen 4",
-        "city": "KUNGÄLV",
-        "postalCode": 44234,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Mimers Hus gymnasium KUNGÄLV",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 3964,
-      "name": "Bäckagårdsskolan F-9 MALMÖ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Klågerupsvägen 342",
-        "city": "MALMÖ",
-        "postalCode": 21236,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Bäckagårdsskolan F-9 MALMÖ",
-          "coach": "Lydia Nyström"
         }
       ]
     },
@@ -2531,7 +2170,7 @@
     },
     {
       "id": 4255,
-      "name": "Johannes Hedberggymnasiet",
+      "name": "Johannes Hedberggymnasiet HELSINGBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Trädgårdsgatan 25",
@@ -2581,7 +2220,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "Lunds Universitet LUND",
+          "name": "NG Lunds Universitet LUND",
           "coach": "Lydia Nyström"
         }
       ]
@@ -2606,8 +2245,27 @@
       ]
     },
     {
+      "id": 8924,
+      "name": "Kyrkby högstadieskola (KHS)",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "5 Skolvägen",
+        "city": "Jomala",
+        "postalCode": 22150,
+        "country": "Åland",
+        "countryCode": "AX"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Kyrkby högstadieskola (KHS) JOMALA",
+          "coach": "Saga Boström"
+        }
+      ]
+    },
+    {
       "id": 9067,
-      "name": "Amerikanska Gymnasiet Stockholm – Campus Frescati Hage",
+      "name": "Amerikanska Gymnasiet Stockholm – Campus Frescati Hage STOCKHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Frescati Hagväg 9",
@@ -2621,25 +2279,6 @@
         {
           "name": "NG Amerikanska Gymnasiet – Campus Frescati Hage STOCKHOLM",
           "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
-      "id": 10185,
-      "name": "Drottning Blanka Norrköping",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Tullhusgatan 13",
-        "city": "Norrköping",
-        "postalCode": 60228,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Drottning Blanka NORRKÖPING",
-          "coach": "Saga Boström"
         }
       ]
     },
@@ -2663,27 +2302,8 @@
       ]
     },
     {
-      "id": 10247,
-      "name": "Centrum För Flexibelt Lärande SÖDERHAMN",
-      "type": "Folkhögskola",
-      "adress": {
-        "street": "Södra Järnvägsgatan 7",
-        "city": "Söderhamn",
-        "postalCode": 82650,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Centrum För Flexibelt Lärande SÖDERHAMN",
-          "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
       "id": 10433,
-      "name": "ProCivitas privata gymnasium UPPSALA",
+      "name": "ProCivitas Gymnasium UPPSALA",
       "type": "Gymnasium",
       "adress": {
         "street": "Lägerhyddsvägen 2",
@@ -2695,7 +2315,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG ProCivitas Uppsala",
+          "name": "NG i byggnad 3, ProCivitas Gymnasium, UPPSALA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -2721,7 +2341,7 @@
     },
     {
       "id": 10473,
-      "name": "ProCivitas Gymnasium KARLBERG",
+      "name": "ProCivitas Gymnasium Karlberg SOLNA",
       "type": "Gymnasium",
       "adress": {
         "street": "Tomtebodavägen 3A",
@@ -2733,7 +2353,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG ProCivitas Gymnasium KARLBERG",
+          "name": "NG ProCivitas Gymnasium Karlberg SOLNA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -2775,6 +2395,58 @@
           "coach": "Hanna Johansson"
         }
       ]
+    },
+    {
+      "id": 10855,
+      "name": "Nordic International School KARLSTAD",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Orrholmsgatan 4",
+        "city": "Karlstad",
+        "postalCode": 65215,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Nordic International School KARLSTAD",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
+      "id": 10977,
+      "name": "NTI Handelsgymnasiet GÖTEBORG",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Kronhusgatan 11",
+        "city": "Göteborg",
+        "postalCode": 41105,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG NTI Handelsgymnasiet GÖTEBORG",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
+      "id": 1507,
+      "name": "Hedbergska (Sundsvalls gymnasium)",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Skolhusallén  6",
+        "city": "SUNDSVALL",
+        "postalCode": 85237,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
     },
     {
       "id": 2013,
@@ -2890,7 +2562,7 @@
     },
     {
       "id": 2036,
-      "name": "Duveholmsgymnasiet",
+      "name": "Duveholmsgymnasiet KATRINEHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Västgötagatan  31",
@@ -2924,6 +2596,20 @@
         "street": "Färjbacksvägen  13",
         "city": "DJURÅS",
         "postalCode": 78561,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2044,
+      "name": "Katedralskolan LINKÖPING",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Platensgatan 20",
+        "city": "LINKÖPING",
+        "postalCode": 58220,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -2966,6 +2652,20 @@
         "street": "Grosvadsvägen 5",
         "city": "FINSPÅNG",
         "postalCode": 61241,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2055,
+      "name": "Grenadjärskolan ÖREBRO",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Pionjärgatan 3",
+        "city": "ÖREBRO",
+        "postalCode": 70381,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -3211,6 +2911,20 @@
       "groups": []
     },
     {
+      "id": 2097,
+      "name": "Strömbackaskolan Piteå",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Svartuddsvägen 1",
+        "city": "PITEÅ",
+        "postalCode": 94150,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2100,
       "name": "Eklidens skola",
       "type": "Övre grundskola (7-9)",
@@ -3422,12 +3136,12 @@
     },
     {
       "id": 2178,
-      "name": "Furuskolan",
+      "name": "Furuskolan JÖRN",
       "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "",
-        "city": "JÖRN",
-        "postalCode": "",
+        "street": "Furugatan 7",
+        "city": "Jörn",
+        "postalCode": 93055,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -3911,8 +3625,22 @@
       "groups": []
     },
     {
+      "id": 2298,
+      "name": "Södertörns Högskola HUDDINGE",
+      "type": "Högskola/Universitet",
+      "adress": {
+        "street": "Alfred Nobels Allé  7",
+        "city": "HUDDINGE",
+        "postalCode": 14152,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 7502,
-      "name": "Lindgårdsskolan",
+      "name": "Lindgårdsskolan FAGERSTA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Kyrkvägen 7",
@@ -4290,7 +4018,7 @@
     },
     {
       "id": 7544,
-      "name": "Läroverket",
+      "name": "Läroverket HUDIKSVALL",
       "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "",
@@ -4738,7 +4466,7 @@
     },
     {
       "id": 7582,
-      "name": "Dackeskolan",
+      "name": "Dackeskolan MJÖLBY",
       "type": "Gymnasium",
       "adress": {
         "street": "Burensköldsvägen  33",
@@ -5438,7 +5166,7 @@
     },
     {
       "id": 5053,
-      "name": "Magelungen Karlaskolan 6-9",
+      "name": "Magelungen Karlaskolan 6-9 GÖTEBORG",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Sankt Pauligatan 3",
@@ -5550,7 +5278,7 @@
     },
     {
       "id": 5073,
-      "name": "Brattebergsskolan",
+      "name": "Brattebergsskolan ÖCKERÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Brattevägen 34",
@@ -5844,7 +5572,7 @@
     },
     {
       "id": 5141,
-      "name": "Ekdalaskolan (6-9)",
+      "name": "Ekdalaskolan (6-9) MÖLNLYCKE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Skolvägen 4",
@@ -5976,20 +5704,6 @@
         "street": "Fjällgatan 40",
         "city": "GÖTEBORG",
         "postalCode": 41317,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 5181,
-      "name": "Flahultsskolan 6-9",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Vallgatan",
-        "city": "NORRAHAMMAR",
-        "postalCode": 56232,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -6950,7 +6664,7 @@
     },
     {
       "id": 6721,
-      "name": "Torvallaskolan 6-9",
+      "name": "Torvallaskolan 6-9 ÖSTERSUND",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Nävervägen 23",
@@ -6978,7 +6692,7 @@
     },
     {
       "id": 6723,
-      "name": "Treälvsskolan F-9",
+      "name": "Treälvsskolan F-9 ÖSTERSUND",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Skolvägen 8",
@@ -7278,6 +6992,20 @@
         "street": "Pl 231",
         "city": "LÖVÅNGER",
         "postalCode": 93010,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 6749,
+      "name": "Vallaskolan F-9 FRÖSÖN",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Önevägen 147",
+        "city": "FRÖSÖN",
+        "postalCode": 83253,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -7902,7 +7630,7 @@
     },
     {
       "id": 4390,
-      "name": "Linnéskolan 4-9",
+      "name": "Linnéskolan 4-9 LIMHAMN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Linnégatan 58",
@@ -8356,6 +8084,20 @@
         "street": "Kunskapsgatan  3",
         "city": "ÖSTRA LJUNGBY",
         "postalCode": 26471,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 4494,
+      "name": "Nils Fredriksson Gymnasium",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Börringevägen 10",
+        "city": "SVEDALA",
+        "postalCode": 23380,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -9161,20 +8903,6 @@
       "groups": []
     },
     {
-      "id": 1640,
-      "name": "Nicolaiskolan HELSINGBORG",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Studievägen 2",
-        "city": "HELSINGBORG",
-        "postalCode": 25247,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 1715,
       "name": "Christian 4:s Gymnasium (C4)",
       "type": "Gymnasium",
@@ -9329,6 +9057,20 @@
       "groups": []
     },
     {
+      "id": 2151,
+      "name": "Malmö Latinskola",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Drottninggatan 22",
+        "city": "MALMÖ",
+        "postalCode": 21149,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2154,
       "name": "Musikgrundskolan Synkopen F-9",
       "type": "Övre grundskola (7-9)",
@@ -9428,12 +9170,26 @@
     },
     {
       "id": 2170,
-      "name": "Linnéskolan 7-9",
-      "type": "Övre grundskola (7-9)",
+      "name": "Linnéskolan HÄSSLEHOLM",
+      "type": "Grundskola (F-9)",
       "adress": {
         "street": "Röingegatan 55",
         "city": "HÄSSLEHOLM",
         "postalCode": 28136,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2171,
+      "name": "Söderportgymnasiet KRISTIANSTAD",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Västra Boulevarden 53",
+        "city": "KRISTIANSTAD",
+        "postalCode": 29131,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -11066,7 +10822,7 @@
     },
     {
       "id": 3064,
-      "name": "Internationella Engelska Skolan i Enskede",
+      "name": "Internationella Engelska Skolan ENSKEDE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Lingvägen 123",
@@ -12172,7 +11928,7 @@
     },
     {
       "id": 6997,
-      "name": "CULTUS Gymnasieskola",
+      "name": "CULTUS Gymnasieskola UPPSALA",
       "type": "Gymnasium",
       "adress": {
         "street": "Bergsbrunnagatan 1",
@@ -12794,20 +12550,6 @@
         "street": "Korsängsgatan 38",
         "city": "ENKÖPING",
         "postalCode": 74949,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 7062,
-      "name": "Enebyskolan 7-9",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Taborsbergsvägen 83",
-        "city": "NORRKÖPING",
-        "postalCode": 60208,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -13564,20 +13306,6 @@
         "street": "Östra Skolgatan 3",
         "city": "ÅNGE",
         "postalCode": 84133,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 6511,
-      "name": "Minervaskolan UMEÅ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Nygatan 47",
-        "city": "UMEÅ",
-        "postalCode": 90330,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -15798,7 +15526,7 @@
     },
     {
       "id": 3443,
-      "name": "Nytorpsskolan",
+      "name": "Nytorpsskolan JOHANNESHOV",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Paternostervägen 1822 -",
@@ -15812,7 +15540,7 @@
     },
     {
       "id": 3444,
-      "name": "Nytorpsskolan",
+      "name": "Nytorpsskolan RÖNNINGE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Tvillingvägen 11",
@@ -17058,7 +16786,7 @@
     },
     {
       "id": 8065,
-      "name": "Transtenskolan",
+      "name": "Transtenskolan HALLSBERG",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "",
@@ -17884,7 +17612,7 @@
     },
     {
       "id": 8144,
-      "name": "Westerlundska gymnasiet Enköping",
+      "name": "Westerlundska gymnasiet ENKÖPING",
       "type": "Gymnasium",
       "adress": {
         "street": "Sandbrogatan 2",
@@ -18933,8 +18661,22 @@
       "groups": []
     },
     {
+      "id": 2857,
+      "name": "Kunskapsgymnasiet UPPSALA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Dag Hammarskjölds väg  21",
+        "city": "UPPSALA",
+        "postalCode": 75237,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2859,
-      "name": "Gäddgårdsskolan",
+      "name": "Gäddgårdsskolan ARBOGA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Gäddgårdsgatan 1",
@@ -19130,7 +18872,7 @@
     },
     {
       "id": 2882,
-      "name": "Kunskapsgymnasiet",
+      "name": "Kunskapsgymnasiet VÄSTERÅS",
       "type": "Gymnasium",
       "adress": {
         "street": "Port-Anders g. 1",
@@ -20305,20 +20047,6 @@
       "groups": []
     },
     {
-      "id": 6316,
-      "name": "Furuskolan",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Furugatan 7",
-        "city": "JÖRN",
-        "postalCode": 93055,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 6317,
       "name": "Furuviks skola (F-6)",
       "type": "Övre grundskola (7-9)",
@@ -20880,7 +20608,7 @@
     },
     {
       "id": 4474,
-      "name": "Porten/Musikugglan",
+      "name": "Porten/Musikugglan KARLSKRONA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Ekorrvägen 2",
@@ -20964,7 +20692,7 @@
     },
     {
       "id": 4545,
-      "name": "Paradisskolan F-9",
+      "name": "Paradisskolan F-9 NYBRO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Kyrkoesplanaden 4",
@@ -21146,7 +20874,7 @@
     },
     {
       "id": 4721,
-      "name": "Stagneliusskolan",
+      "name": "Stagneliusskolan KALMAR",
       "type": "Gymnasium",
       "adress": {
         "street": "Fredriksskansgatan 5",
@@ -21384,7 +21112,7 @@
     },
     {
       "id": 4952,
-      "name": "Älghultskolan",
+      "name": "Älghultskolan ÄLGHULT",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Högsbyvägen 5",
@@ -21621,20 +21349,6 @@
       "groups": []
     },
     {
-      "id": 1506,
-      "name": "Ådalsskolan",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Limstavägen 22",
-        "city": "KRAMFORS",
-        "postalCode": 87230,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 1513,
       "name": "Vidhögeskolan (F-9)",
       "type": "Övre grundskola (7-9)",
@@ -21664,7 +21378,7 @@
     },
     {
       "id": 1516,
-      "name": "Fryxellska skolan",
+      "name": "Fryxellska skolan VÄSTERÅS",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Stora gatan 57",
@@ -21804,7 +21518,7 @@
     },
     {
       "id": 1541,
-      "name": "Aranäsgymnasiet",
+      "name": "Aranäsgymnasiet KUNGSBACKA",
       "type": "Gymnasium",
       "adress": {
         "street": "Gymnasiegatan 44",
@@ -21852,20 +21566,6 @@
         "street": "Allégatan 45",
         "city": "VARA",
         "postalCode": 53431,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 1553,
-      "name": "Dragonskolan Umeå",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Dragongatan  1",
-        "city": "UMEÅ",
-        "postalCode": 90322,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -22069,20 +21769,6 @@
       "groups": []
     },
     {
-      "id": 1601,
-      "name": "Nolhagaskolan (6-9)",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Nolhaga Allé",
-        "city": "ALINGSÅS",
-        "postalCode": 44155,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 1603,
       "name": "Tingvallagymnasiet",
       "type": "Gymnasium",
@@ -22146,20 +21832,6 @@
         "street": "Bragegatan",
         "city": "MÄRSTA",
         "postalCode": 19553,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 1623,
-      "name": "Högskolan i Gävle",
-      "type": "Högskola/Universitet",
-      "adress": {
-        "street": "Kungsbäcksv.  47",
-        "city": "GÄVLE",
-        "postalCode": 80176,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -22279,6 +21951,20 @@
       "groups": []
     },
     {
+      "id": 1663,
+      "name": "Leksands Gymnasium LEKSAND",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Rättviksvägen  29",
+        "city": "LEKSAND",
+        "postalCode": 79380,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 1665,
       "name": "Sollebrunn skola (6-9)",
       "type": "Övre grundskola (7-9)",
@@ -22293,13 +21979,41 @@
       "groups": []
     },
     {
+      "id": 1668,
+      "name": "Stenbackaskolan ASARUM",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Stenbackavägen  10",
+        "city": "ASARUM",
+        "postalCode": 37453,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 1672,
-      "name": "Attarpsskolan 6-9",
+      "name": "Attarpsskolan 6-9 BANKERYD",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Attarpsvägen 7",
         "city": "BANKERYD",
         "postalCode": 56433,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 1681,
+      "name": "Sven Eriksonsgymnasiet BORÅS",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Sven Eriksonsplatsen",
+        "city": "BORÅS",
+        "postalCode": 50338,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -22475,6 +22189,20 @@
       "groups": []
     },
     {
+      "id": 1731,
+      "name": "Lagmansskolan 4-9",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Lagmansgatan 34",
+        "city": "MJÖLBY",
+        "postalCode": 59552,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 1732,
       "name": "Mora Gymnasium",
       "type": "Gymnasium",
@@ -22496,6 +22224,20 @@
         "street": "Smålandsgatan 2",
         "city": "MOTALA",
         "postalCode": 59135,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 1738,
+      "name": "De Geergymnasiet NORRKÖPING",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Nygatan  68",
+        "city": "NORRKÖPING",
+        "postalCode": 60234,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -22588,7 +22330,7 @@
     },
     {
       "id": 2421,
-      "name": "Trollehöjdskolan",
+      "name": "Trollehöjdskolan MULLSJÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Gunnarsbovägen 29",
@@ -22742,7 +22484,7 @@
     },
     {
       "id": 2436,
-      "name": "Forshedaskola 7-9",
+      "name": "Forshedaskola 7-9 FORSHEDA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Slättövägen  9",
@@ -22923,6 +22665,34 @@
       "groups": []
     },
     {
+      "id": 2458,
+      "name": "Strandskolan F-9 JÖNKÖPING",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Kortebo gård 7",
+        "city": "JÖNKÖPING",
+        "postalCode": 55594,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2465,
+      "name": "Linnéuniversitetet Växjö",
+      "type": "Högskola/Universitet",
+      "adress": {
+        "street": "Universitetsplatsen 1",
+        "city": "VÄXJÖ",
+        "postalCode": 35252,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2466,
       "name": "Ringsbergsskolan (F-9)",
       "type": "Övre grundskola (7-9)",
@@ -22980,7 +22750,7 @@
     },
     {
       "id": 2482,
-      "name": "Centralskolan (6-9)",
+      "name": "Centralskolan (6-9) FALKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Sankt Olofsgatan 34",
@@ -23014,20 +22784,6 @@
         "street": "Skolgatan 5",
         "city": "VIRSERUM",
         "postalCode": 57080,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2487,
-      "name": "Strömsnässkolan (F-9)",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Järnvägsgatan 51",
-        "city": "STRÖMSNÄSBRUK",
-        "postalCode": 28731,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -23196,6 +22952,20 @@
         "street": "Järngården 3",
         "city": "VRETA KLOSTER",
         "postalCode": 59076,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2530,
+      "name": "Sävsjö kristna skola SÄVSJÖ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Storgatan 9",
+        "city": "SÄVSJÖ",
+        "postalCode": 57622,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -23736,7 +23506,7 @@
     },
     {
       "id": 2639,
-      "name": "Klara Gymnasium",
+      "name": "Klara Gymnasium LINKÖPING",
       "type": "Gymnasium",
       "adress": {
         "street": "S:t Larsgatan 3",
@@ -23834,7 +23604,7 @@
     },
     {
       "id": 5743,
-      "name": "Paradisskolan",
+      "name": "Paradisskolan TROLLHÄTTAN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Paradisvägen 10",
@@ -24393,6 +24163,20 @@
       "groups": []
     },
     {
+      "id": 5903,
+      "name": "Stadsgårdsskolan 7-9 JÖNKÖPING",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Pärlugglegatan  11",
+        "city": "JÖNKÖPING",
+        "postalCode": 55611,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 5904,
       "name": "Stavreskolan",
       "type": "Övre grundskola (7-9)",
@@ -24450,7 +24234,7 @@
     },
     {
       "id": 5913,
-      "name": "Stenstorpsskolan (4-9)",
+      "name": "Stenstorpsskolan (4-9) HALMSTAD",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Stenstorpsvägen  3",
@@ -24561,6 +24345,20 @@
       "groups": []
     },
     {
+      "id": 5930,
+      "name": "Sturegymnasiet",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Engelbrektsgatan 36",
+        "city": "HALMSTAD",
+        "postalCode": 30266,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 5931,
       "name": "Styrsöskolan 6-9",
       "type": "Övre grundskola (7-9)",
@@ -24638,6 +24436,20 @@
         "street": "Sethelius väg 3",
         "city": "SÄTILA",
         "postalCode": 51169,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 5954,
+      "name": "Södergårdsskolan F-6 HUSKVARNA",
+      "type": "Lägre grundskola (F-6)",
+      "adress": {
+        "street": "Storgatan 10",
+        "city": "HUSKVARNA",
+        "postalCode": 56142,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -25276,7 +25088,7 @@
     },
     {
       "id": 3247,
-      "name": "Johan Skytteskolan",
+      "name": "Johan Skytteskolan ÄLVSJÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Västerängsvägen 19",
@@ -25534,6 +25346,20 @@
         "street": "BOX 43",
         "city": "DANDERYD",
         "postalCode": 18211,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 3268,
+      "name": "Ljud & Bildskolan LBS STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Högbergsgatan 62",
+        "city": "STOCKHOLM",
+        "postalCode": 11854,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -26368,7 +26194,7 @@
     },
     {
       "id": 1759,
-      "name": "Katedralskolan, Skara",
+      "name": "Katedralskolan SKARA",
       "type": "Gymnasium",
       "adress": {
         "street": "Brunsbogatan 1",
@@ -26493,20 +26319,6 @@
       "groups": []
     },
     {
-      "id": 1788,
-      "name": "Hannaskolan UMEÅ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Aktrisgränd 31",
-        "city": "UMEÅ",
-        "postalCode": 90364,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 1793,
       "name": "Bolandsgymnasiet",
       "type": "Gymnasium",
@@ -26578,12 +26390,26 @@
     },
     {
       "id": 1819,
-      "name": "Carlforsska gymnasiet",
+      "name": "Carlforsska gymnasiet VÄSTERÅS",
       "type": "Gymnasium",
       "adress": {
         "street": "Sångargatan 1",
         "city": "VÄSTERÅS",
         "postalCode": "",
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 1826,
+      "name": "Katedralskolan VÄXJÖ",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Samuel Ödmans väg  1",
+        "city": "VÄXJÖ",
+        "postalCode": 35233,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -26830,7 +26656,7 @@
     },
     {
       "id": 1888,
-      "name": "Hulebäcksgymnasiet",
+      "name": "Hulebäcksgymnasiet MÖLNLYCKE",
       "type": "Gymnasium",
       "adress": {
         "street": "Idrottsvägen 2",
@@ -27046,6 +26872,20 @@
         "street": "Årstaängsvägen 31 H",
         "city": "STOCKHOLM",
         "postalCode": 11743,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 1954,
+      "name": "Upplands-Brogymnasiet STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Skolvägen 24",
+        "city": "KUNGSÄNGEN",
+        "postalCode": 19634,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -27606,20 +27446,6 @@
         "street": "Tångenvägen 2",
         "city": "STRÖMSTAD",
         "postalCode": 45280,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2342,
-      "name": "Aroseniusskolan (7-9)",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Vallmovägen",
-        "city": "ÄLVÄNGEN",
-        "postalCode": 44635,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -28831,6 +28657,20 @@
       "groups": []
     },
     {
+      "id": 2722,
+      "name": "JENSEN Gymnasium Norra",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Tulegatan 44",
+        "city": "STOCKHOLM",
+        "postalCode": 11353,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2723,
       "name": "Renforsskolan",
       "type": "Övre grundskola (7-9)",
@@ -28852,6 +28692,20 @@
         "street": "",
         "city": "STOCKHOLM",
         "postalCode": "",
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2725,
+      "name": "Falu Frigymnasium FALUN",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Nybrogatan 20 B",
+        "city": "FALUN",
+        "postalCode": 79172,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -29084,7 +28938,7 @@
     },
     {
       "id": 2768,
-      "name": "Ljungarumsskolan 7-9",
+      "name": "Ljungarumsskolan 7-9 JÖNKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Varnamovägen 1",
@@ -29174,20 +29028,6 @@
         "street": "Järfällavägen  102-104",
         "city": "JÄRFÄLLA",
         "postalCode": 17741,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2786,
-      "name": "Schillerska gymnasiet",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Vasagatan 19",
-        "city": "GÖTEBORG",
-        "postalCode": 41124,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -30497,6 +30337,20 @@
       "groups": []
     },
     {
+      "id": 3004,
+      "name": "Danderyds gymnasium STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Rinkebyvägen 4",
+        "city": "DANDERYD",
+        "postalCode": 18236,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 3005,
       "name": "Danderyds Montessoriskola",
       "type": "Övre grundskola (7-9)",
@@ -30778,7 +30632,7 @@
     },
     {
       "id": 3120,
-      "name": "Futuraskolan, Lidingö",
+      "name": "Futuraskolan LIDINGÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Mälartorget 15",
@@ -30918,7 +30772,7 @@
     },
     {
       "id": 3131,
-      "name": "Globala gymnasiet",
+      "name": "Globala gymnasiet STOCKHOLM",
       "type": "Gymnasium",
       "adress": {
         "street": "Hornsgatan 93",
@@ -32696,7 +32550,7 @@
     },
     {
       "id": 3364,
-      "name": "Magelungsskolan",
+      "name": "Magelungsskolan FARSTA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Ullerudsbacken 39",
@@ -36433,20 +36287,6 @@
       "groups": []
     },
     {
-      "id": 3731,
-      "name": "Täby Enskilda gymnasium",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Kemistvägen 1",
-        "city": "TÄBY",
-        "postalCode": 18728,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 3732,
       "name": "Täby friskola Enhagenskolan",
       "type": "Övre grundskola (7-9)",
@@ -38072,7 +37912,7 @@
     },
     {
       "id": 3982,
-      "name": "Dackeskolan (F-9)",
+      "name": "Dackeskolan (F-9) TINGSRYD",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Södra Smedjegatan 19",
@@ -38302,20 +38142,6 @@
         "street": "Stora Torget 3",
         "city": "HULTSFRED",
         "postalCode": 57730,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 4204,
-      "name": "Huneskolan (7-9)",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Östergatan 20",
-        "city": "MARKARYD",
-        "postalCode": 28531,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -38618,7 +38444,7 @@
     },
     {
       "id": 4389,
-      "name": "Linnéskolan",
+      "name": "Linnéskolan ÄLMHULT",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Västra Björkgatan  9",
@@ -39402,8 +39228,8 @@
     },
     {
       "id": 5574,
-      "name": "Linnéskolan (F-9)",
-      "type": "Övre grundskola (7-9)",
+      "name": "Linnéskolan ALINGSÅS",
+      "type": "Grundskola (F-9)",
       "adress": {
         "street": "Kungsängsgatan 5",
         "city": "ALINGSÅS",
@@ -39696,7 +39522,7 @@
     },
     {
       "id": 5647,
-      "name": "Montessoriskolan Älvkullen F-9",
+      "name": "Montessoriskolan Älvkullen F-9 KUNGÄLV",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Fontinvägen  38",
@@ -39891,6 +39717,20 @@
       "groups": []
     },
     {
+      "id": 5680,
+      "name": "Nifsarpsskolan",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Nifsarpsvägen 4",
+        "city": "EKSJÖ",
+        "postalCode": 57580,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 5688,
       "name": "Nordhemsskolan 4-9",
       "type": "Övre grundskola (7-9)",
@@ -39919,20 +39759,6 @@
       "groups": []
     },
     {
-      "id": 5690,
-      "name": "Montessoriskolan Älvkullen F-9 KUNGÄLV",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Fontinvägen 38",
-        "city": "KUNGÄLV",
-        "postalCode": 44231,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 5693,
       "name": "Norgårdenskolan F-9",
       "type": "Övre grundskola (7-9)",
@@ -39940,20 +39766,6 @@
         "street": "Norgårdsvägen 12",
         "city": "UDDEVALLA",
         "postalCode": 45175,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 5703,
-      "name": "Norråsaskolan",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Prästgatan 15",
-        "city": "NÄSSJÖ",
-        "postalCode": 57132,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -39990,7 +39802,7 @@
     },
     {
       "id": 5721,
-      "name": "Nytorpsskolan 4-9",
+      "name": "Nytorpsskolan 4-9 ANGERED",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Bredfjällsgatan 70",
@@ -42132,7 +41944,7 @@
     },
     {
       "id": 6407,
-      "name": "Johan Skyttes skola",
+      "name": "Johan Skyttes skola LYCKSELE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "",
@@ -42243,20 +42055,6 @@
       "groups": []
     },
     {
-      "id": 6417,
-      "name": "Jävre skola",
-      "type": "Lägre grundskola (F-6)",
-      "adress": {
-        "street": "Skolbackevägen 25",
-        "city": "JÄVREBYN",
-        "postalCode": 94494,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 6418,
       "name": "Kalix Naturbruksgymnasium",
       "type": "Gymnasium",
@@ -42348,6 +42146,20 @@
         "street": "Östersunds",
         "city": "ÖSTERSUND",
         "postalCode": 83182,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 6426,
+      "name": "Kastellskolan HÄRNÖSAND",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Kristinagatan 2",
+        "city": "HÄRNÖSAND",
+        "postalCode": 87129,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -42971,6 +42783,20 @@
       "groups": []
     },
     {
+      "id": 6575,
+      "name": "Parkskolan 6-9",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Krondikesvägen 1",
+        "city": "ÖSTERSUND",
+        "postalCode": 83136,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 6576,
       "name": "Parkskolan (F-3)",
       "type": "Övre grundskola (7-9)",
@@ -43384,20 +43210,6 @@
         "street": "BOX 43",
         "city": "GAMMELSTAD",
         "postalCode": 95421,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 6609,
-      "name": "Rymdgymnasiet",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Campingvägen 3",
-        "city": "KIRUNA",
-        "postalCode": 98135,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -44204,7 +44016,7 @@
     },
     {
       "id": 6682,
-      "name": "Sundsvalls Praktiska Gymnasium",
+      "name": "Sundsvalls Praktiska Gymnasium SUNDSVALL",
       "type": "Gymnasium",
       "adress": {
         "street": "Västergatan 34",
@@ -47943,7 +47755,7 @@
     {
       "id": 7300,
       "name": "Hummelstaskolan",
-      "type": "Övre grundskola (7-9)",
+      "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "Gamla vägen 34",
         "city": "ENKÖPING",
@@ -48936,12 +48748,26 @@
     },
     {
       "id": 7390,
-      "name": "Karlstads Praktiska Gymnasium",
+      "name": "Karlstads Praktiska Gymnasium KARLSTAD",
       "type": "Gymnasium",
       "adress": {
         "street": "Packhusgatan 1",
         "city": "KARLSTAD",
         "postalCode": 65226,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 7391,
+      "name": "Karlsängsskolan",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Tingshuset",
+        "city": "NORA",
+        "postalCode": 71380,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -49152,6 +48978,20 @@
         "street": "",
         "city": "KOPPARBERG",
         "postalCode": 71480,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 7418,
+      "name": "Korsängsskolan ENKÖPING",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Korsängsgatan 10",
+        "city": "ENKÖPING",
+        "postalCode": 74949,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -50434,7 +50274,7 @@
     },
     {
       "id": 7685,
-      "name": "Nytorpsskolan",
+      "name": "Nytorpsskolan SURAHAMMAR",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "BOX 203",
@@ -51330,7 +51170,7 @@
     },
     {
       "id": 7768,
-      "name": "Risbroskolan",
+      "name": "Risbroskolan FAGERSTA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Skolvägen 2",
@@ -51736,7 +51576,7 @@
     },
     {
       "id": 7935,
-      "name": "Stjerneskolan",
+      "name": "Stjerneskolan TORSBY",
       "type": "Gymnasium",
       "adress": {
         "street": "Fabriksgatan 3",
@@ -52436,7 +52276,7 @@
     },
     {
       "id": 8003,
-      "name": "Södermalmsskolan 7-9 Kristinehamn",
+      "name": "Södermalmsskolan 7-9 KRISTINEHAMN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Södermalmsgatan 1",
@@ -52996,12 +52836,12 @@
     },
     {
       "id": 8385,
-      "name": "Kungliga tekniska högskolan",
+      "name": "Kungliga tekniska högskolan STOCKHOLM",
       "type": "Högskola/Universitet",
       "adress": {
-        "street": "",
-        "city": "STOCKHOLM",
-        "postalCode": "",
+        "street": "Brinellvägen 8",
+        "city": "Stockholm",
+        "postalCode": 11428,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -53142,6 +52982,20 @@
         "street": "Batterigatan 19",
         "city": "JÖNKÖPING",
         "postalCode": 55305,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 8433,
+      "name": "Realgymnasiet STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Trekantsvägen 1",
+        "city": "STOCKHOLM",
+        "postalCode": 11743,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -54004,7 +53858,7 @@
     },
     {
       "id": 8623,
-      "name": "Internationella engelska skolan Eskilstuna",
+      "name": "Internationella engelska skolan ESKILSTUNA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Svengrensgatan 9",
@@ -54024,6 +53878,20 @@
         "street": "Svetsarevägen 2",
         "city": "SUNNE",
         "postalCode": 68680,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 8627,
+      "name": "Ilandaskolan KARLSTAD",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Ilandavägen 50",
+        "city": "Karlstad",
+        "postalCode": 65350,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -54423,8 +54291,22 @@
       "groups": []
     },
     {
+      "id": 8227,
+      "name": "Hagströmska gymnasiet FALUN",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Gruvgatan 2",
+        "city": "FALUN",
+        "postalCode": 79162,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 8229,
-      "name": "Ydreskolan F-9",
+      "name": "Ydreskolan F-9 YDRE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Hagagatan 12",
@@ -55263,20 +55145,6 @@
       "groups": []
     },
     {
-      "id": 8310,
-      "name": "Internationella Engelska skolan 1-9 HUSKVARNA",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Birkagatan  41",
-        "city": "HUSKVARNA",
-        "postalCode": 56133,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 8315,
       "name": "Mikael Elias Teoretiska Gymnasium",
       "type": "Gymnasium",
@@ -55312,20 +55180,6 @@
         "street": "Gärdesvägen  4",
         "city": "ALVESTA",
         "postalCode": 34231,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 8331,
-      "name": "Vittra vid Gerdsken (F-9)",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Lärkvägen 10",
-        "city": "ALINGSÅS",
-        "postalCode": 44140,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -55810,7 +55664,7 @@
     },
     {
       "id": 8708,
-      "name": "Kungliga Tekniska Högskolan",
+      "name": "Kungliga Tekniska Högskolan SÖDERTÄLJE",
       "type": "Högskola/Universitet",
       "adress": {
         "street": "Mariekällgatan 3",
@@ -56054,20 +55908,6 @@
         "street": "Liljeholmsvägen 8",
         "city": "RIMFORSA",
         "postalCode": 59043,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 8733,
-      "name": "Stureskolan BODEN",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Sturegatan 11",
-        "city": "BODEN",
-        "postalCode": 96133,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -56327,6 +56167,20 @@
       "groups": []
     },
     {
+      "id": 8790,
+      "name": "Drottning Blankas Gymnasieskola GÖTEBORG",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Köpmansgatan 12",
+        "city": "GÖTEBORG",
+        "postalCode": 41113,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 8791,
       "name": "Drottning Blankas Gymnasieskola ENSKEDEDALEN",
       "type": "Gymnasium",
@@ -56446,20 +56300,6 @@
         "street": "Kullaviks Gullviveväg  21",
         "city": "KULLAVIK",
         "postalCode": 42933,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 8811,
-      "name": "Kunskapsskolan 6-9 GÄVLE",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Rynningsgatan 2",
-        "city": "GÄVLE",
-        "postalCode": 80256,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -56748,7 +56588,7 @@
     },
     {
       "id": 8870,
-      "name": "Hällsboskolan",
+      "name": "Hällsboskolan UMEÅ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Aktörgränd 31",
@@ -56796,20 +56636,6 @@
         "street": "Lindblomsvägen 21",
         "city": "HÖNÖ",
         "postalCode": 47542,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 8875,
-      "name": "Internationella Engelska Skolan Huddinge",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Regulatorvägen 11",
-        "city": "HUDDINGE",
-        "postalCode": 14149,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -57308,7 +57134,7 @@
     },
     {
       "id": 8927,
-      "name": "Globala gymnasiet",
+      "name": "Globala gymnasiet KARLSTAD",
       "type": "Gymnasium",
       "adress": {
         "street": "Gustav Anders gata 7 A",
@@ -57762,6 +57588,20 @@
         "street": "Ekhagsringen 17",
         "city": "JÖNKÖPING",
         "postalCode": 55456,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 8963,
+      "name": "JENSEN grundskola Örebro",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Rudbecksgatan 36",
+        "city": "ÖREBRO",
+        "postalCode": 70223,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -58273,6 +58113,20 @@
       "groups": []
     },
     {
+      "id": 9004,
+      "name": "Gullhögsskolan (7-9) VÅRGÅRDA",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Parkgatan 18",
+        "city": "VÅRGÅRDA",
+        "postalCode": 44731,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 9006,
       "name": "Hagaskolan VALLENTUNA",
       "type": "Övre grundskola (7-9)",
@@ -58280,6 +58134,20 @@
         "street": "",
         "city": "VALLENTUNA",
         "postalCode": 18646,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 9007,
+      "name": "Amerikanska Gymnasiet UPPSALA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Sysslomansgatan 39",
+        "city": "UPPSALA",
+        "postalCode": 75227,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -58302,7 +58170,7 @@
     },
     {
       "id": 9009,
-      "name": "Calle Flygare Teaterskola",
+      "name": "Calle Flygare Teaterskola STOCKHOLM",
       "type": "Folkhögskola",
       "adress": {
         "street": "Västmanngatan 5",
@@ -58364,6 +58232,20 @@
         "street": "Brinellgatan  52",
         "city": "NÄSSJÖ",
         "postalCode": 57180,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 9016,
+      "name": "S:t Lars Gymnasium LINKÖPING",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Sankt Larsgatan 26",
+        "city": "LINKÖPING",
+        "postalCode": 58224,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -58476,6 +58358,20 @@
         "street": "Universitetsplatsen 1",
         "city": "GÖTEBORG",
         "postalCode": 40530,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 9027,
+      "name": "Mimers Hus gymnasium KUNGÄLV",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Trollhättevägen 4",
+        "city": "KUNGÄLV",
+        "postalCode": 44234,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -59029,6 +58925,20 @@
       "groups": []
     },
     {
+      "id": 3964,
+      "name": "Bäckagårdsskolan F-9 MALMÖ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Klågerupsvägen 342",
+        "city": "MALMÖ",
+        "postalCode": 21236,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 3973,
       "name": "Naverlönnskolan 6-9",
       "type": "Övre grundskola (7-9)",
@@ -59436,7 +59346,7 @@
     },
     {
       "id": 4103,
-      "name": "Georgshillsskolan F-9",
+      "name": "Georgshillsskolan F-9 HÖRBY",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Ystadsvägen 45",
@@ -61689,20 +61599,6 @@
       "groups": []
     },
     {
-      "id": 8924,
-      "name": "Kyrkby högstadieskola (KHS)",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "5 Skolvägen",
-        "city": "Jomala",
-        "postalCode": 22150,
-        "country": "Åland",
-        "countryCode": "AX"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 8926,
       "name": "Lemlands grundskola",
       "type": "Lägre grundskola (F-6)",
@@ -61780,6 +61676,34 @@
         "street": "Vittnesgränden 14",
         "city": "Lund",
         "postalCode": 22647,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10185,
+      "name": "Drottning Blanka NORRKÖPING",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Tullhusgatan 13",
+        "city": "Norrköping",
+        "postalCode": 60228,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10247,
+      "name": "Centrum För Flexibelt Lärande SÖDERHAMN",
+      "type": "Folkhögskola",
+      "adress": {
+        "street": "Södra Järnvägsgatan 7",
+        "city": "Söderhamn",
+        "postalCode": 82650,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -62032,6 +61956,104 @@
         "street": "Carl Krooks Gata 17",
         "city": "Helsingborg",
         "postalCode": 25218,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10729,
+      "name": "Färsingaskolan SJÖBO",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Ågatan 3",
+        "city": "Sjöbo",
+        "postalCode": 27535,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10745,
+      "name": "Linköpings Idrottsgymnasium LINKÖPING",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Sankt Larsgatan 46",
+        "city": "Linköping",
+        "postalCode": 58224,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10833,
+      "name": "Midsommarkransens Gymnasium STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Tellusborgsvägen 10",
+        "city": "Hägersten",
+        "postalCode": 12632,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10838,
+      "name": "Magelungens Grundskola VÄSTERÅS",
+      "type": "Grundskola (F-9)",
+      "adress": {
+        "street": "Iggebygatan 6",
+        "city": "Västerås",
+        "postalCode": 72220,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10904,
+      "name": "Pårydsskolan KALMAR",
+      "type": "Lägre grundskola (F-6)",
+      "adress": {
+        "street": "Järnvägen 5",
+        "city": "Påryd",
+        "postalCode": 38850,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10940,
+      "name": "Drottning Blankas Gymnasieskola Vasastan STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Karlbergsvägen 77",
+        "city": "Stockholm",
+        "postalCode": 11335,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 10985,
+      "name": "Hjortsbergskolan LJUNGBY",
+      "type": "Grundskola (F-9)",
+      "adress": {
+        "street": "Ågårdsvägen 33",
+        "city": "Ljungby",
+        "postalCode": 34141,
         "country": "Sverige",
         "countryCode": "SE"
       },
