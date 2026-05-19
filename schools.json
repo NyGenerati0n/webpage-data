@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-19T09:04:19.186Z",
-  "syncedAt": "2026-05-19T09:04:10.232Z",
+  "generatedAt": "2026-05-19T09:14:08.598Z",
+  "syncedAt": "2026-05-19T09:14:05.189Z",
   "schools": [
     {
       "id": 2025,
@@ -2013,25 +2013,6 @@
         {
           "name": "NG Rytmus BORLÄNGE",
           "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 8906,
-      "name": "PA Fogelströms gymnasium STOCKHOLM",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Stigbergsgatan 26",
-        "city": "STOCKHOLM",
-        "postalCode": 11628,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG PA Fogelströms gymnasium STOCKHOLM",
-          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -56972,6 +56953,20 @@
         "street": "Parkgatan 27",
         "city": "HALLSTAHAMMAR",
         "postalCode": 73435,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 8906,
+      "name": "PA Fogelströms gymnasium STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Stigbergsgatan 26",
+        "city": "STOCKHOLM",
+        "postalCode": 11628,
         "country": "Sverige",
         "countryCode": "SE"
       },
