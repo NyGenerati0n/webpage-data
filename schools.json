@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T01:24:15.351Z",
-  "syncedAt": "2026-05-20T01:24:07.648Z",
+  "generatedAt": "2026-05-20T01:27:08.399Z",
+  "syncedAt": "2026-05-20T01:26:59.069Z",
   "schools": [
     {
       "id": 2025,
@@ -232,7 +232,7 @@
     },
     {
       "id": 5181,
-      "name": "Flahultsskolan 6-9",
+      "name": "Flahultsskolan 7-9",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Vallgatan",
