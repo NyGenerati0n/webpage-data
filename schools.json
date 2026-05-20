@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-20T14:24:19.641Z",
-  "syncedAt": "2026-05-20T14:24:08.760Z",
+  "generatedAt": "2026-05-20T14:34:09.337Z",
+  "syncedAt": "2026-05-20T14:34:05.267Z",
   "schools": [
     {
       "id": 2025,
@@ -1384,7 +1384,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "Tibble kristna STOCKHOLM",
+          "name": "Tibble kristna TÄBY",
           "coach": "Hanna Johansson"
         }
       ]
