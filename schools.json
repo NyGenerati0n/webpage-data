@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-21T01:24:10.314Z",
-  "syncedAt": "2026-05-21T01:24:06.247Z",
+  "generatedAt": "2026-05-21T01:27:07.822Z",
+  "syncedAt": "2026-05-21T01:26:58.278Z",
   "schools": [
     {
       "id": 2025,
@@ -650,7 +650,7 @@
     },
     {
       "id": 1608,
-      "name": "Arlandagymnasiet STOCKHOLM",
+      "name": "Arlandagymnasiet MÄRSTA",
       "type": "Gymnasium",
       "adress": {
         "street": "Vikingavägen  2",
@@ -1372,7 +1372,7 @@
     },
     {
       "id": 1955,
-      "name": "Tibble Gymnasium Campus Täby STOCKHOLM",
+      "name": "Tibble Gymnasium TÄBY",
       "type": "Gymnasium",
       "adress": {
         "street": "Attundavägen 1",
