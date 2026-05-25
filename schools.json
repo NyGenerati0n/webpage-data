@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T14:14:06.534Z",
-  "syncedAt": "2026-05-25T14:14:02.644Z",
+  "generatedAt": "2026-05-25T14:24:09.031Z",
+  "syncedAt": "2026-05-25T14:24:03.119Z",
   "schools": [
     {
       "id": 2025,
@@ -245,25 +245,6 @@
       "groups": [
         {
           "name": "NG Flahultsskolan 7-9 NORRAHAMMAR",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 4550,
-      "name": "Pauliskolan MALMÖ",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Föreningsgatan 41",
-        "city": "MALMÖ",
-        "postalCode": 21152,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Pauliskolan MALMÖ",
           "coach": "Lydia Nyström"
         }
       ]
@@ -8181,6 +8162,20 @@
         "street": "Östra Storgatan 8",
         "city": "OSBY",
         "postalCode": 28341,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 4550,
+      "name": "Pauliskolan MALMÖ",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Föreningsgatan 41",
+        "city": "MALMÖ",
+        "postalCode": 21152,
         "country": "Sverige",
         "countryCode": "SE"
       },
