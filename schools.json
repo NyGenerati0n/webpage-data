@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T14:24:09.031Z",
-  "syncedAt": "2026-05-25T14:24:03.119Z",
+  "generatedAt": "2026-05-25T14:34:08.093Z",
+  "syncedAt": "2026-05-25T14:34:04.163Z",
   "schools": [
     {
       "id": 2025,
@@ -1504,25 +1504,6 @@
       ]
     },
     {
-      "id": 2793,
-      "name": "S:t Eskilsgymnasiet ESKILSTUNA",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Smedjegatan 3-5",
-        "city": "ESKILSTUNA",
-        "postalCode": 63220,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG S:t Eskilsgymnasiet ESKILSTUNA",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
       "id": 3731,
       "name": "Täby Enskilda gymnasium TÄBY",
       "type": "Gymnasium",
@@ -1690,25 +1671,6 @@
         {
           "name": "NG Rymdgymnasiet KIRUNA",
           "coach": "Maja Karlsson"
-        }
-      ]
-    },
-    {
-      "id": 6907,
-      "name": "Björkvallsskolan UPPSALA",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "BOX 26",
-        "city": "BJÖRKLINGE",
-        "postalCode": 74030,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Björkvallsskolan UPPSALA",
-          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -29057,6 +29019,20 @@
       "groups": []
     },
     {
+      "id": 2793,
+      "name": "S:t Eskilsgymnasiet ESKILSTUNA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Smedjegatan 3-5",
+        "city": "ESKILSTUNA",
+        "postalCode": 63220,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2908,
       "name": "Aspuddens skola",
       "type": "Övre grundskola (7-9)",
@@ -45220,6 +45196,20 @@
         "street": "Björktorpsgatan 1",
         "city": "ESKILSTUNA",
         "postalCode": 63237,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 6907,
+      "name": "Björkvallsskolan UPPSALA",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "BOX 26",
+        "city": "BJÖRKLINGE",
+        "postalCode": 74030,
         "country": "Sverige",
         "countryCode": "SE"
       },
