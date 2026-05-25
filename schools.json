@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-25T12:44:08.817Z",
-  "syncedAt": "2026-05-25T12:44:03.354Z",
+  "generatedAt": "2026-05-25T12:54:07.499Z",
+  "syncedAt": "2026-05-25T12:54:02.923Z",
   "schools": [
     {
       "id": 2025,
@@ -245,25 +245,6 @@
       "groups": [
         {
           "name": "NG Flahultsskolan 7-9 NORRAHAMMAR",
-          "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 5229,
-      "name": "Furulundsskolan MARIANNELUND",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Skolgatan 5",
-        "city": "Mariannelund",
-        "postalCode": 59897,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Furulundsskolan MARIANNELUND",
           "coach": "Lydia Nyström"
         }
       ]
@@ -5890,6 +5871,20 @@
         "street": "Stubbvägen",
         "city": "PARTILLE",
         "postalCode": 43347,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 5229,
+      "name": "Furulundsskolan MARIANNELUND",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Skolgatan 5",
+        "city": "Mariannelund",
+        "postalCode": 59897,
         "country": "Sverige",
         "countryCode": "SE"
       },
