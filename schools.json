@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-26T08:44:09.591Z",
-  "syncedAt": "2026-05-26T08:44:03.656Z",
+  "generatedAt": "2026-05-26T08:54:06.664Z",
+  "syncedAt": "2026-05-26T08:54:02.456Z",
   "schools": [
     {
       "id": 2025,
@@ -854,25 +854,6 @@
         {
           "name": "NG Withalaskolan VETLANDA",
           "coach": "Lydia Nyström"
-        }
-      ]
-    },
-    {
-      "id": 2439,
-      "name": "Thorildsplans Gymnasium STOCKHOLM",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Drottningholmsvägen  82",
-        "city": "STOCKHOLM",
-        "postalCode": 11242,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Thorildsplans Gymnasium STOCKHOLM",
-          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -22432,6 +22413,20 @@
         "street": "Häggvägen 17",
         "city": "LINKÖPING",
         "postalCode": 58731,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2439,
+      "name": "Thorildsplans Gymnasium STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Drottningholmsvägen  82",
+        "city": "STOCKHOLM",
+        "postalCode": 11242,
         "country": "Sverige",
         "countryCode": "SE"
       },
