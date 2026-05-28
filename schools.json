@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-28T14:44:06.769Z",
-  "syncedAt": "2026-05-28T14:44:02.852Z",
+  "generatedAt": "2026-05-28T14:54:12.092Z",
+  "syncedAt": "2026-05-28T14:54:04.738Z",
   "schools": [
     {
       "id": 2025,
@@ -1328,25 +1328,6 @@
       "groups": [
         {
           "name": "NG Lundellska skolan UPPSALA",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
-      "id": 2324,
-      "name": "Norra Real STOCKHOLM",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Roslagsgatan  1",
-        "city": "STOCKHOLM",
-        "postalCode": 11355,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Norra Real STOCKHOLM",
           "coach": "Hanna Johansson"
         }
       ]
@@ -27271,6 +27252,20 @@
         "street": "Rastavallsvägen 1",
         "city": "BOR",
         "postalCode": 33015,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2324,
+      "name": "Norra Real STOCKHOLM",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Roslagsgatan  1",
+        "city": "STOCKHOLM",
+        "postalCode": 11355,
         "country": "Sverige",
         "countryCode": "SE"
       },
