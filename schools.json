@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T07:54:07.054Z",
-  "syncedAt": "2026-08-20T07:54:02.938Z",
+  "generatedAt": "2026-08-20T08:04:06.598Z",
+  "syncedAt": "2026-08-20T08:04:02.685Z",
   "schools": [
     {
       "id": 2025,
@@ -1253,6 +1253,25 @@
         {
           "name": "NG Rudbecksskolan SOLLENTUNA",
           "coach": "Hanna Johansson"
+        }
+      ]
+    },
+    {
+      "id": 1877,
+      "name": "Vasaskolan",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "N. Kungsg.  15",
+        "city": "GÄVLE",
+        "postalCode": 80320,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Vasaskolan GÄVLE",
+          "coach": "Maja Karlsson"
         }
       ]
     },
@@ -26520,20 +26539,6 @@
         "street": "Ekebovägen 12",
         "city": "VÄXJÖ",
         "postalCode": 35233,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 1877,
-      "name": "Vasaskolan",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "N. Kungsg.  15",
-        "city": "GÄVLE",
-        "postalCode": 80320,
         "country": "Sverige",
         "countryCode": "SE"
       },
