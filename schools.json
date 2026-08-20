@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-20T07:44:06.408Z",
-  "syncedAt": "2026-08-20T07:44:03.030Z",
+  "generatedAt": "2026-08-20T07:54:07.054Z",
+  "syncedAt": "2026-08-20T07:54:02.938Z",
   "schools": [
     {
       "id": 2025,
@@ -1100,6 +1100,25 @@
       "groups": [
         {
           "name": "NG Njudungsgymnasiet VETLANDA",
+          "coach": "Lydia Nyström"
+        }
+      ]
+    },
+    {
+      "id": 1826,
+      "name": "Katedralskolan VÄXJÖ",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Samuel Ödmans väg  1",
+        "city": "VÄXJÖ",
+        "postalCode": 35233,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Katedralskolan VÄXJÖ",
           "coach": "Lydia Nyström"
         }
       ]
@@ -26319,20 +26338,6 @@
         "street": "Sångargatan 1",
         "city": "VÄSTERÅS",
         "postalCode": "",
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 1826,
-      "name": "Katedralskolan VÄXJÖ",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Samuel Ödmans väg  1",
-        "city": "VÄXJÖ",
-        "postalCode": 35233,
         "country": "Sverige",
         "countryCode": "SE"
       },
