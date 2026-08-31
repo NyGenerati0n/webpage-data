@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-08-31T12:44:06.936Z",
-  "syncedAt": "2026-08-31T12:44:02.919Z",
+  "generatedAt": "2026-08-31T12:54:11.524Z",
+  "syncedAt": "2026-08-31T12:54:05.135Z",
   "schools": [
     {
       "id": 2025,
@@ -453,7 +453,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Östersunds Gymnasium",
+          "name": "NG Östersunds Gymnasium ÖSTERSUND",
           "coach": "Maja Karlsson"
         }
       ]
@@ -662,7 +662,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Högskolan i Gävle",
+          "name": "NG Högskolan i Gävle GÄVLE",
           "coach": "Maja Karlsson"
         }
       ]
@@ -1802,7 +1802,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Vittra Gerdsken (F-9)",
+          "name": "NG Vittra Gerdsken (F-9) ALINGSÅS",
           "coach": "Maja Karlsson"
         }
       ]
