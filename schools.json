@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-01T01:24:09.492Z",
-  "syncedAt": "2026-09-01T01:24:04.065Z",
+  "generatedAt": "2026-09-01T01:27:16.426Z",
+  "syncedAt": "2026-09-01T01:26:58.278Z",
   "schools": [
     {
       "id": 2025,
@@ -175,7 +175,7 @@
     },
     {
       "id": 2268,
-      "name": "Bäckaskolan (1-9)",
+      "name": "Bäckaskolan (1-9) GNOSJÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Läroverksgatan 17",
@@ -194,7 +194,7 @@
     },
     {
       "id": 2285,
-      "name": "Landsbro skola",
+      "name": "Landsbro skola LANDSBRO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Sävsjövägen 27",
@@ -232,7 +232,7 @@
     },
     {
       "id": 5181,
-      "name": "Flahultsskolan 7-9",
+      "name": "Flahultsskolan 7-9 NORRAHAMMAR",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Vallgatan",
@@ -441,7 +441,7 @@
     },
     {
       "id": 2879,
-      "name": "Östersunds Gymnasium",
+      "name": "Östersunds Gymnasium ÖSTERSUND",
       "type": "Gymnasium",
       "adress": {
         "street": "Rådhusgatan 37",
@@ -536,7 +536,7 @@
     },
     {
       "id": 1553,
-      "name": "Dragonskolan Umeå",
+      "name": "Dragonskolan UMEÅ",
       "type": "Gymnasium",
       "adress": {
         "street": "Dragongatan  1",
@@ -612,7 +612,7 @@
     },
     {
       "id": 1620,
-      "name": "Gislaveds Gymnasium Gärdesskolan",
+      "name": "Gislaveds Gymnasium Gärdesskolan GISLAVED",
       "type": "Gymnasium",
       "adress": {
         "street": "Gislegatan 5",
@@ -650,7 +650,7 @@
     },
     {
       "id": 1623,
-      "name": "Högskolan i Gävle",
+      "name": "Högskolan i Gävle GÄVLE",
       "type": "Högskola/Universitet",
       "adress": {
         "street": "Kungsbäcksv.  47",
@@ -916,7 +916,7 @@
     },
     {
       "id": 5806,
-      "name": "Rytmus Göteborg",
+      "name": "Rytmus GÖTEBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Postgatan 5",
@@ -1011,7 +1011,7 @@
     },
     {
       "id": 1775,
-      "name": "Aleholmsskolan",
+      "name": "Aleholmsskolan SÄVSJÖ",
       "type": "Gymnasium",
       "adress": {
         "street": "Hjärtlandavägen 9",
@@ -1600,7 +1600,7 @@
     },
     {
       "id": 5703,
-      "name": "Norråsaskolan",
+      "name": "Norråsaskolan NÄSSJÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Prästgatan 15",
@@ -1733,7 +1733,7 @@
     },
     {
       "id": 8484,
-      "name": "Rytmus Örebro",
+      "name": "Rytmus ÖREBRO",
       "type": "Gymnasium",
       "adress": {
         "street": "Karlsgatan  30",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": 8331,
-      "name": "Vittra Gerdsken (F-9)",
+      "name": "Vittra Gerdsken (F-9) ALINGSÅS",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Lärkvägen 10",
@@ -1904,7 +1904,7 @@
     },
     {
       "id": 8893,
-      "name": "Rytmus Borlänge",
+      "name": "Rytmus BORLÄNGE",
       "type": "Gymnasium",
       "adress": {
         "street": "Wallingatan 20",
@@ -1999,7 +1999,7 @@
     },
     {
       "id": 9014,
-      "name": "Vägga gymnasieskola",
+      "name": "Vägga gymnasieskola KARLSHAMN",
       "type": "Gymnasium",
       "adress": {
         "street": "Väggavägen 2",
@@ -23887,7 +23887,7 @@
     },
     {
       "id": 5820,
-      "name": "Röselidsskolan (F-9)",
+      "name": "Röselidsskolan (F-9) GRÅBO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Röselidsvägen 5",
@@ -62043,6 +62043,20 @@
         "street": "Ågårdsvägen 33",
         "city": "Ljungby",
         "postalCode": 34141,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11175,
+      "name": "Furuborgskolan NYKVARN",
+      "type": "Lägre grundskola (F-6)",
+      "adress": {
+        "street": "Trädgårdsvägen 30",
+        "city": "Nykvarn",
+        "postalCode": 15532,
         "country": "Sverige",
         "countryCode": "SE"
       },
