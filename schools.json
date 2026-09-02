@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-02T07:24:09.668Z",
-  "syncedAt": "2026-09-02T07:24:06.089Z",
+  "generatedAt": "2026-09-02T07:34:12.482Z",
+  "syncedAt": "2026-09-02T07:34:07.636Z",
   "schools": [
     {
       "id": 2025,
@@ -1461,6 +1461,25 @@
       "groups": [
         {
           "name": "NG Jämtlands Gymnasium Wargentin ÖSTERSUND",
+          "coach": "Maja Karlsson"
+        }
+      ]
+    },
+    {
+      "id": 2725,
+      "name": "Falu Frigymnasium FALUN",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Nybrogatan 20 B",
+        "city": "FALUN",
+        "postalCode": 79172,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Falu Frigymnasium FALUN",
           "coach": "Maja Karlsson"
         }
       ]
@@ -28639,20 +28658,6 @@
         "street": "",
         "city": "STOCKHOLM",
         "postalCode": "",
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2725,
-      "name": "Falu Frigymnasium FALUN",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Nybrogatan 20 B",
-        "city": "FALUN",
-        "postalCode": 79172,
         "country": "Sverige",
         "countryCode": "SE"
       },
