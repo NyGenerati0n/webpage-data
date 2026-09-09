@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-03T09:14:06.985Z",
-  "syncedAt": "2026-09-03T09:14:02.933Z",
+  "generatedAt": "2026-09-09T09:34:09.738Z",
+  "syncedAt": "2026-09-09T09:34:04.852Z",
   "schools": [
     {
       "id": 2025,
@@ -17,7 +17,7 @@
       "groups": [
         {
           "name": "NG Linnégymnasiet LINKÖPING",
-          "coach": "Saga Boström"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -36,7 +36,7 @@
       "groups": [
         {
           "name": "NG Hagagymnasiet NORRKÖPING",
-          "coach": "Saga Boström"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -55,7 +55,7 @@
       "groups": [
         {
           "name": "NG Folkungaskolan LINKÖPING",
-          "coach": "Saga Boström"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -74,7 +74,7 @@
       "groups": [
         {
           "name": "NG Berzeliusskolan LINKÖPING",
-          "coach": "Saga Boström"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -93,7 +93,7 @@
       "groups": [
         {
           "name": "NG Bäckadal JÖNKÖPING",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -112,7 +112,7 @@
       "groups": [
         {
           "name": "NG Tannbergsskolan LYCKSELE",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -131,7 +131,7 @@
       "groups": [
         {
           "name": "NG Fryshuset Gymnasium STOCKHOLM",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -150,7 +150,7 @@
       "groups": [
         {
           "name": "NG Linköpings universitet Campus Valla LINKÖPING",
-          "coach": "Saga Boström"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -169,7 +169,7 @@
       "groups": [
         {
           "name": "NG Västerhöjdsgymnasiet SKÖVDE",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -188,7 +188,7 @@
       "groups": [
         {
           "name": "NG Bäckaskolan (1-9) GNOSJÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "groups": [
         {
           "name": "Pax dei, Landsbro Skola LANDSBRO",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -226,7 +226,7 @@
       "groups": [
         {
           "name": "NG Bergumsskolan F-9 OLOFSTORP",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -245,7 +245,7 @@
       "groups": [
         {
           "name": "NG Flahultsskolan 7-9 NORRAHAMMAR",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -264,7 +264,7 @@
       "groups": [
         {
           "name": "NG Nicolaiskolan HELSINGBORG",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -283,7 +283,7 @@
       "groups": [
         {
           "name": "NG Rönnegymnasiet ÄNGELHOLM",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -302,7 +302,7 @@
       "groups": [
         {
           "name": "NG Europaportens grundskola F-9 MALMÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -321,7 +321,7 @@
       "groups": [
         {
           "name": "NG Enebyskolan NORRKÖPING",
-          "coach": "Saga Boström"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -340,7 +340,7 @@
       "groups": [
         {
           "name": "NG Minervagymnasium UMEÅ",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -359,7 +359,7 @@
       "groups": [
         {
           "name": "NG Minervaskolan UMEÅ",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -378,7 +378,7 @@
       "groups": [
         {
           "name": "NG S:t Iliansskolan ENKÖPING",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -397,7 +397,7 @@
       "groups": [
         {
           "name": "NG Katarinaskolan UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -416,7 +416,7 @@
       "groups": [
         {
           "name": "NG i byggnad 3, NTI Gymnasiet, UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -435,7 +435,7 @@
       "groups": [
         {
           "name": "NG Hagaboda HABO",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -454,7 +454,7 @@
       "groups": [
         {
           "name": "NG Östersunds Gymnasium ÖSTERSUND",
-          "coach": "Maja Karlsson"
+          "coach": "Andreas Häger"
         }
       ]
     },
@@ -473,7 +473,7 @@
       "groups": [
         {
           "name": "NG Ådalsskolan KRAMFORS",
-          "coach": "Maja Karlsson"
+          "coach": "Zackarias Hagström"
         }
       ]
     },
@@ -492,7 +492,7 @@
       "groups": [
         {
           "name": "NG Nolaskolan ÖRNSKÖLDSVIK",
-          "coach": "Maja Karlsson"
+          "coach": "Zackarias Hagström"
         }
       ]
     },
@@ -511,7 +511,7 @@
       "groups": [
         {
           "name": "NG Parkskolan ÖRNSKÖLDSVIK",
-          "coach": "Maja Karlsson"
+          "coach": "Zackarias Hagström"
         }
       ]
     },
@@ -530,7 +530,7 @@
       "groups": [
         {
           "name": "NG Dalängskolan 7-9 LIDKÖPING",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -549,7 +549,7 @@
       "groups": [
         {
           "name": "NG Dragonskolan UMEÅ",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -568,7 +568,7 @@
       "groups": [
         {
           "name": "NG Celsiusskolan UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -587,7 +587,7 @@
       "groups": [
         {
           "name": "NG Nolhagaskolan (6-9) ALINGSÅS",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -606,7 +606,7 @@
       "groups": [
         {
           "name": "NG Arlandagymnasiet MÄRSTA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -625,7 +625,7 @@
       "groups": [
         {
           "name": "ICTUS Gislaveds Gymnasium Gärdesskolan GISLAVED",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -644,7 +644,7 @@
       "groups": [
         {
           "name": "NG Ribbaskolan 7-9 GRÄNNA",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -682,7 +682,7 @@
       "groups": [
         {
           "name": "NG Hvitfeldtska gymnasiet GÖTEBORG",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -720,7 +720,7 @@
       "groups": [
         {
           "name": "NG Erik Dahlbergsgymnasiet JÖNKÖPING",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -739,7 +739,7 @@
       "groups": [
         {
           "name": "NG Per Brahegymnasiet JÖNKÖPING",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -758,7 +758,7 @@
       "groups": [
         {
           "name": "NG Sandagymnasiet HUSKVARNA",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -777,7 +777,7 @@
       "groups": [
         {
           "name": "NG Jenny Nyström KALMAR",
-          "coach": "Saga Boström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -796,7 +796,7 @@
       "groups": [
         {
           "name": "Shalom Bäckängsgymnasiet BORÅS",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -815,7 +815,7 @@
       "groups": [
         {
           "name": "NG Falkenbergs Gymnasieskola FALKENBERG",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -834,7 +834,7 @@
       "groups": [
         {
           "name": "NG Ållebergsgymnasiet FALKÖPING",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -853,7 +853,7 @@
       "groups": [
         {
           "name": "NG Withalaskolan VETLANDA",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -872,7 +872,7 @@
       "groups": [
         {
           "name": "NG Strömsnässkolan STRÖMSNÄSBRUK",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -891,7 +891,7 @@
       "groups": [
         {
           "name": "NG Rörviks skola RÖRVIK",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -910,7 +910,7 @@
       "groups": [
         {
           "name": "NG Möckelngymnasiet KARLSKOGA",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -929,7 +929,7 @@
       "groups": [
         {
           "name": "NG Rytmus GÖTEBORG",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -948,7 +948,7 @@
       "groups": [
         {
           "name": "NG JENSEN Gymnasium Gamla stan STOCKHOLM",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -967,7 +967,7 @@
       "groups": [
         {
           "name": "Facklan Brinellgymnasiet NÄSSJÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -986,7 +986,7 @@
       "groups": [
         {
           "name": "NG Oscarsgymnasiet OSKARSHAMN",
-          "coach": "Saga Boström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -1005,7 +1005,7 @@
       "groups": [
         {
           "name": "NG Kavelbrogymnasiet SKÖVDE",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1024,7 +1024,7 @@
       "groups": [
         {
           "name": "NG Aleholmsskolan SÄVSJÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1043,7 +1043,7 @@
       "groups": [
         {
           "name": "NG Hannaskolan UMEÅ",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -1062,7 +1062,7 @@
       "groups": [
         {
           "name": "NG Rosendalsgymnasiet UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1081,7 +1081,7 @@
       "groups": [
         {
           "name": "Kristna på Katte (KPK) UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1100,7 +1100,7 @@
       "groups": [
         {
           "name": "NG Njudungsgymnasiet VETLANDA",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1119,7 +1119,7 @@
       "groups": [
         {
           "name": "NG Katedralskolan VÄXJÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -1138,7 +1138,7 @@
       "groups": [
         {
           "name": "NG Sundlergymnasiet VÅRGÅRDA",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1157,7 +1157,7 @@
       "groups": [
         {
           "name": "NG JAM Finnvedens gymnasium VÄRNAMO",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1176,7 +1176,7 @@
       "groups": [
         {
           "name": "NG Karolinska Gymnasiet ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1195,7 +1195,7 @@
       "groups": [
         {
           "name": "Eklesia TRANÅS",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1214,7 +1214,7 @@
       "groups": [
         {
           "name": "NG Rudbecks gymnasiet ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1233,7 +1233,7 @@
       "groups": [
         {
           "name": "NG Virginska Gymnasiet ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1252,7 +1252,7 @@
       "groups": [
         {
           "name": "NG Rudbecksskolan SOLLENTUNA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1290,7 +1290,7 @@
       "groups": [
         {
           "name": "KSG - De la Gardiegymnasiet LIDKÖPING",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1309,7 +1309,7 @@
       "groups": [
         {
           "name": "Lejon av Juda GNOSJÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1328,7 +1328,7 @@
       "groups": [
         {
           "name": "NG Luspengymnasiet STORUMAN",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -1347,7 +1347,7 @@
       "groups": [
         {
           "name": "Tibble kristna TÄBY",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1366,7 +1366,7 @@
       "groups": [
         {
           "name": "NG Lundellska skolan UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1385,7 +1385,7 @@
       "groups": [
         {
           "name": "NG Aroseniusskolan (7-9) ÄLVÄNGEN",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1404,7 +1404,7 @@
       "groups": [
         {
           "name": "NG Grillska gymnasiet VÄSTERÅS",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1423,7 +1423,7 @@
       "groups": [
         {
           "name": "NG Kunskapscentrum MARKARYD",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -1442,7 +1442,7 @@
       "groups": [
         {
           "name": "NG Sundsta-Älvkullegymnasiet KARLSTAD",
-          "coach": "Maja Karlsson"
+          "coach": "Evelina Svärd"
         }
       ]
     },
@@ -1461,7 +1461,7 @@
       "groups": [
         {
           "name": "NG Jämtlands Gymnasium Wargentin ÖSTERSUND",
-          "coach": "Maja Karlsson"
+          "coach": "Andreas Häger"
         }
       ]
     },
@@ -1480,7 +1480,7 @@
       "groups": [
         {
           "name": "NG Falu Frigymnasium FALUN",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Ankarberg"
         }
       ]
     },
@@ -1499,7 +1499,7 @@
       "groups": [
         {
           "name": "NG Kunskapskällan HERRLJUNGA",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1518,7 +1518,7 @@
       "groups": [
         {
           "name": "NG Schillerska gymnasiet GÖTEBORG",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1537,7 +1537,7 @@
       "groups": [
         {
           "name": "NG Täby Enskilda gymnasium TÄBY",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1556,7 +1556,7 @@
       "groups": [
         {
           "name": "NG Calmare Internationella Skola (CIS) KALMAR",
-          "coach": "Saga Boström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -1575,7 +1575,7 @@
       "groups": [
         {
           "name": "NG Huneskolan MARKARYD",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -1594,7 +1594,7 @@
       "groups": [
         {
           "name": "NG Lars Kagg KALMAR",
-          "coach": "Saga Boström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -1613,7 +1613,7 @@
       "groups": [
         {
           "name": "NG Lerums Gymnasium LERUM",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1632,7 +1632,7 @@
       "groups": [
         {
           "name": "NG Norråsaskolan NÄSSJÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1651,7 +1651,7 @@
       "groups": [
         {
           "name": "NG Björknäsgymnasiet BODEN",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -1670,7 +1670,7 @@
       "groups": [
         {
           "name": "NG Jävre skola JÄVRE",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -1689,7 +1689,7 @@
       "groups": [
         {
           "name": "NG Rymdgymnasiet KIRUNA",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -1708,7 +1708,7 @@
       "groups": [
         {
           "name": "NG Gumaeliusskolan åk. 7-9 ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1727,7 +1727,7 @@
       "groups": [
         {
           "name": "NG Kunskapsskolan UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1746,7 +1746,7 @@
       "groups": [
         {
           "name": "NG Realgymnasiet UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1765,7 +1765,7 @@
       "groups": [
         {
           "name": "NG Rytmus ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1784,7 +1784,7 @@
       "groups": [
         {
           "name": "NG Örebro universitet ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1803,7 +1803,7 @@
       "groups": [
         {
           "name": "NG Internationella Engelska skolan 1-9 HUSKVARNA",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1822,7 +1822,7 @@
       "groups": [
         {
           "name": "NG Vittra Gerdsken (F-9) ALINGSÅS",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1841,7 +1841,7 @@
       "groups": [
         {
           "name": "NG Kunskapsskolan ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1860,7 +1860,7 @@
       "groups": [
         {
           "name": "NG Stureskolan BODEN",
-          "coach": "Maja Karlsson"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -1898,7 +1898,7 @@
       "groups": [
         {
           "name": "NG Internationella Engelska Skolan HUDDINGE",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1917,7 +1917,7 @@
       "groups": [
         {
           "name": "NG Drottning Blanka Gymnasium ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1936,7 +1936,7 @@
       "groups": [
         {
           "name": "NG Rytmus BORLÄNGE",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Ankarberg"
         }
       ]
     },
@@ -1955,7 +1955,7 @@
       "groups": [
         {
           "name": "NG Ansgarskolorna (7-9) UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1974,7 +1974,7 @@
       "groups": [
         {
           "name": "NG Klara Teoretiska gymnasium GÖTEBORG",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -2012,7 +2012,7 @@
       "groups": [
         {
           "name": "NG Pops Academy Karl Johan ÖREBRO",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -2031,7 +2031,7 @@
       "groups": [
         {
           "name": "NG Vägga gymnasieskola KARLSHAMN",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -2050,7 +2050,7 @@
       "groups": [
         {
           "name": "NG Brogymnasiet KRISTINEHAMN",
-          "coach": "Maja Karlsson"
+          "coach": "Evelina Svärd"
         }
       ]
     },
@@ -2069,7 +2069,7 @@
       "groups": [
         {
           "name": "NG Högastensskolan F-9 HELSINGBORG",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -2088,7 +2088,7 @@
       "groups": [
         {
           "name": "NG Johannes Hedberggymnasiet HELSINGBORG",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -2107,7 +2107,7 @@
       "groups": [
         {
           "name": "NG Västerskolan 7-9 HÄSSLEHOLM",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -2126,7 +2126,7 @@
       "groups": [
         {
           "name": "NG Lunds Universitet LUND",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -2145,7 +2145,7 @@
       "groups": [
         {
           "name": "NG Malmö Universitet MALMÖ",
-          "coach": "Lydia Nyström"
+          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -2164,7 +2164,7 @@
       "groups": [
         {
           "name": "NG Kyrkby högstadieskola (KHS) JOMALA",
-          "coach": "Saga Boström"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -2183,7 +2183,7 @@
       "groups": [
         {
           "name": "NG Amerikanska Gymnasiet – Campus Frescati Hage STOCKHOLM",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -2202,7 +2202,7 @@
       "groups": [
         {
           "name": "NG Kunskapsgymnasiet NORRKÖPING",
-          "coach": "Saga Boström"
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -2221,7 +2221,7 @@
       "groups": [
         {
           "name": "NG i byggnad 3, ProCivitas Gymnasium, UPPSALA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -2240,7 +2240,7 @@
       "groups": [
         {
           "name": "NG JENSEN Grundskola VÄSTERÅS",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -2259,7 +2259,7 @@
       "groups": [
         {
           "name": "NG ProCivitas Gymnasium Karlberg SOLNA",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -2278,7 +2278,7 @@
       "groups": [
         {
           "name": "NG Jönköpings Musikgymnasium JÖNKÖPING",
-          "coach": "Lydia Nyström"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -2297,7 +2297,7 @@
       "groups": [
         {
           "name": "NG Klara Teoretiska Gymnasium Stockholm Södra STOCKHOLM",
-          "coach": "Hanna Johansson"
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -2316,7 +2316,7 @@
       "groups": [
         {
           "name": "NG Nordic International School KARLSTAD",
-          "coach": "Maja Karlsson"
+          "coach": "Evelina Svärd"
         }
       ]
     },
@@ -2335,7 +2335,7 @@
       "groups": [
         {
           "name": "NG NTI Handelsgymnasiet GÖTEBORG",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -2354,7 +2354,7 @@
       "groups": [
         {
           "name": "NG Drottning Blanka Odin GÖTEBORG",
-          "coach": "Maja Karlsson"
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -62062,6 +62062,34 @@
         "street": "Trädgårdsvägen 30",
         "city": "Nykvarn",
         "postalCode": 15532,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11190,
+      "name": "NG skolan UPPSALA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "LÄNNALÖT 28",
+        "city": "Länna",
+        "postalCode": 74173,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11185,
+      "name": "DEN BÄSTA SKOLAN PÅ LÄNNA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "LÄNNALÖT 28",
+        "city": "Länna",
+        "postalCode": 74173,
         "country": "Sverige",
         "countryCode": "SE"
       },
