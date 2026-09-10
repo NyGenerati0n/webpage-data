@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T01:24:10.395Z",
-  "syncedAt": "2026-09-10T01:24:04.073Z",
+  "generatedAt": "2026-09-10T01:27:05.513Z",
+  "syncedAt": "2026-09-10T01:26:55.984Z",
   "schools": [
     {
       "id": 2025,
@@ -62062,34 +62062,6 @@
         "street": "Trädgårdsvägen 30",
         "city": "Nykvarn",
         "postalCode": 15532,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 11190,
-      "name": "NG skolan UPPSALA",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "LÄNNALÖT 28",
-        "city": "Länna",
-        "postalCode": 74173,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 11185,
-      "name": "DEN BÄSTA SKOLAN PÅ LÄNNA",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "LÄNNALÖT 28",
-        "city": "Länna",
-        "postalCode": 74173,
         "country": "Sverige",
         "countryCode": "SE"
       },
