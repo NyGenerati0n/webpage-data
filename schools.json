@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-10T09:54:12.045Z",
-  "syncedAt": "2026-09-10T09:54:04.620Z",
+  "generatedAt": "2026-09-10T10:04:06.989Z",
+  "syncedAt": "2026-09-10T10:04:03.072Z",
   "schools": [
     {
       "id": 2025,
@@ -1025,25 +1025,6 @@
         {
           "name": "NG Aleholmsskolan SÄVSJÖ",
           "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
-      "id": 1788,
-      "name": "Hannaskolan UMEÅ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Aktrisgränd 31",
-        "city": "UMEÅ",
-        "postalCode": 90364,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Hannaskolan UMEÅ",
-          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -26292,6 +26273,20 @@
         "street": "Von Essens väg  40",
         "city": "TIDAHOLM",
         "postalCode": 52235,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 1788,
+      "name": "Hannaskolan UMEÅ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Aktrisgränd 31",
+        "city": "UMEÅ",
+        "postalCode": 90364,
         "country": "Sverige",
         "countryCode": "SE"
       },
