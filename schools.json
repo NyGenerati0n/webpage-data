@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-11T01:24:07.652Z",
-  "syncedAt": "2026-09-11T01:24:03.055Z",
+  "generatedAt": "2026-09-11T01:27:05.773Z",
+  "syncedAt": "2026-09-11T01:26:56.152Z",
   "schools": [
     {
       "id": 2025,
@@ -57543,7 +57543,7 @@
     },
     {
       "id": 8960,
-      "name": "Gunnarsboskolan",
+      "name": "Gunnarsboskolan MULLSJÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Skolgatan 8",
