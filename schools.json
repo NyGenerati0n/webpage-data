@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T01:24:07.639Z",
-  "syncedAt": "2026-09-16T01:24:03.331Z",
+  "generatedAt": "2026-09-16T01:27:06.550Z",
+  "syncedAt": "2026-09-16T01:26:57.006Z",
   "schools": [
     {
       "id": 2025,
@@ -26273,20 +26273,6 @@
         "street": "Von Essens väg  40",
         "city": "TIDAHOLM",
         "postalCode": 52235,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 1788,
-      "name": "Hannaskolan UMEÅ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Aktrisgränd 31",
-        "city": "UMEÅ",
-        "postalCode": 90364,
         "country": "Sverige",
         "countryCode": "SE"
       },
