@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T09:46:24.015Z",
-  "syncedAt": "2026-09-18T09:46:16.242Z",
+  "generatedAt": "2026-09-28T09:01:55.127Z",
+  "syncedAt": "2026-09-28T09:01:46.732Z",
   "schools": [
     {
       "id": 2025,
@@ -198,8 +198,8 @@
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Sävsjövägen 27",
-        "city": "LANDSBRO",
-        "postalCode": 57012,
+        "city": "Landsbro",
+        "postalCode": 57472,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -852,7 +852,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Withalaskolan VETLANDA",
+          "name": "The Way Withalaskolan VETLANDA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1080,7 +1080,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Njudungsgymnasiet VETLANDA",
+          "name": "Shalom Njudungsgymnasiet VETLANDA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1137,7 +1137,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG JAM Finnvedens gymnasium VÄRNAMO",
+          "name": "JAM Finnvedens gymnasium VÄRNAMO",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1348,6 +1348,25 @@
         {
           "name": "NG Lundellska skolan UPPSALA",
           "coach": "Sara Widell"
+        }
+      ]
+    },
+    {
+      "id": 2318,
+      "name": "Nyhemsskolan F-9 FINSPÅNG",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Oxhagsvägen 22",
+        "city": "FINSPÅNG",
+        "postalCode": 61232,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Nyhemsskolan F-9 FINSPÅNG",
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -2207,6 +2226,25 @@
       ]
     },
     {
+      "id": 10447,
+      "name": "Internationella Engelska Skolan (IES) STAFFANSTORP",
+      "type": "Grundskola (F-9)",
+      "adress": {
+        "street": "Nefirs gata 1",
+        "city": "Staffanstorp",
+        "postalCode": 24546,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Internationella Engelska Skolan (IES) STAFFANSTORP",
+          "coach": "Felipe Arffman"
+        }
+      ]
+    },
+    {
       "id": 10460,
       "name": "JENSEN Grundskola VÄSTERÅS",
       "type": "Övre grundskola (7-9)",
@@ -2481,7 +2519,7 @@
     },
     {
       "id": 2038,
-      "name": "Voxnadalens gymnasium",
+      "name": "Voxnadalens gymnasium EDSBYN",
       "type": "Gymnasium",
       "adress": {
         "street": "Ovanåkers",
@@ -9131,7 +9169,7 @@
     },
     {
       "id": 2232,
-      "name": "Läredaskolan F-9",
+      "name": "Läredaskolan F-9 HÄSSLEHOLM",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Dykens väg 2",
@@ -11021,7 +11059,7 @@
     },
     {
       "id": 3085,
-      "name": "Falkbergsskolan",
+      "name": "Falkbergsskolan TULLINGE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Östanvägen 3",
@@ -21479,7 +21517,7 @@
     },
     {
       "id": 1544,
-      "name": "Norregårdskolan (7-9)",
+      "name": "Norregårdskolan (7-9) VÄXJÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Kringelvägen 14",
@@ -21703,7 +21741,7 @@
     },
     {
       "id": 1600,
-      "name": "Alströmergymnasiet",
+      "name": "Alströmergymnasiet ALINGSÅS",
       "type": "Gymnasium",
       "adress": {
         "street": "Teatergatan 13",
@@ -22697,7 +22735,7 @@
     },
     {
       "id": 2472,
-      "name": "Borås Kristna Skola F-9",
+      "name": "Borås Kristna Skola F-9 BORÅS",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Skaraborgsvägen 35",
@@ -26323,7 +26361,7 @@
     },
     {
       "id": 1806,
-      "name": "Peder Skrivares Skola (gymnasium)",
+      "name": "Peder Skrivares Skola VARBERG",
       "type": "Gymnasium",
       "adress": {
         "street": "Engelbrektsgatan  60",
@@ -27093,7 +27131,7 @@
     },
     {
       "id": 1991,
-      "name": "Altorpskolan (7-9)",
+      "name": "Altorpskolan (7-9) HERRLJUNGA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Västra Parkgatan 6",
@@ -27253,20 +27291,6 @@
         "street": "Ingenjör Bååths Gata   T6",
         "city": "VÄSTERÅS",
         "postalCode": 72212,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2318,
-      "name": "Nyhemsskolan F-9 FINSPÅNG",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Oxhagsvägen 22",
-        "city": "FINSPÅNG",
-        "postalCode": 61232,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -61707,20 +61731,6 @@
         "street": "von Essens väg 40",
         "city": "Tidaholm",
         "postalCode": 52235,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 10447,
-      "name": "Internationella Engelska Skolan (IES) STAFFANSTORP",
-      "type": "Grundskola (F-9)",
-      "adress": {
-        "street": "Nefirs gata 1",
-        "city": "Staffanstorp",
-        "postalCode": 24546,
         "country": "Sverige",
         "countryCode": "SE"
       },
