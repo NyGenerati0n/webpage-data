@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T09:01:55.127Z",
-  "syncedAt": "2026-09-28T09:01:46.732Z",
+  "generatedAt": "2026-09-30T13:59:36.544Z",
+  "syncedAt": "2026-09-30T13:59:28.230Z",
   "schools": [
     {
       "id": 2025,
@@ -434,7 +434,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Hagaboda HABO",
+          "name": "NG Hagabodaskolan HABO",
           "coach": "Hanna Johansson"
         }
       ]
@@ -5277,7 +5277,7 @@
     },
     {
       "id": 5089,
-      "name": "Brunnsboskolan F-9",
+      "name": "Brunnsboskolan F-9 HISINGS BACKA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Klassikergatan 2",
@@ -5655,7 +5655,7 @@
     },
     {
       "id": 5185,
-      "name": "Flobyskolan (F-9)",
+      "name": "Flobyskolan (F-9) FALKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Parkgatan 29",
@@ -5739,7 +5739,7 @@
     },
     {
       "id": 5204,
-      "name": "Fridaskolan Uddevalla F-9",
+      "name": "Fridaskolan F-9 UDDEVALLA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Regementsvägen 3",
@@ -5977,7 +5977,7 @@
     },
     {
       "id": 5247,
-      "name": "Glöstorpsskolan 7-9",
+      "name": "Glöstorpsskolan 7-9 GÖTEBORG",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Glöstorpsvägen 26",
@@ -6355,7 +6355,7 @@
     },
     {
       "id": 6700,
-      "name": "Sörgårdsskolan",
+      "name": "Sörgårdsskolan ÖSTERSUND",
       "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "Östersunds",
@@ -8889,7 +8889,7 @@
     },
     {
       "id": 1716,
-      "name": "Österängsgymnasiet",
+      "name": "Österängsgymnasiet KRISTIANSTAD",
       "type": "Gymnasium",
       "adress": {
         "street": "Sjövägen 30",
@@ -12823,7 +12823,7 @@
     },
     {
       "id": 6474,
-      "name": "Linneaskolan",
+      "name": "Linneaskolan RÖBÄCK",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Sönkmyrvägen 20",
@@ -15987,7 +15987,7 @@
     },
     {
       "id": 3479,
-      "name": "Raoul Wallenbergskolan Uppsala",
+      "name": "Raoul Wallenbergskolan UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Kungsgatan 24  hus 12",
@@ -16197,7 +16197,7 @@
     },
     {
       "id": 3494,
-      "name": "Rosenborgskolan",
+      "name": "Rosenborgskolan SÖDERTÄLJE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Utbildningskontoret",
@@ -18353,7 +18353,7 @@
     },
     {
       "id": 2827,
-      "name": "Tunaholmskolan",
+      "name": "Tunaholmskolan MARIESTAD",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Lekebergsvägen 4",
@@ -18437,7 +18437,7 @@
     },
     {
       "id": 2836,
-      "name": "Sörgårdsskolan (F-6)",
+      "name": "Sörgårdsskolan (F-6) GISLAVED",
       "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "Löpargatan 2",
@@ -24471,7 +24471,7 @@
     },
     {
       "id": 5960,
-      "name": "Sörgårdsskolan 6-9",
+      "name": "Sörgårdsskolan 6-9 MÖLNDAL",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Hökegårdsgatan 16",
@@ -24555,7 +24555,7 @@
     },
     {
       "id": 5976,
-      "name": "Tingsholmsgymnasiet",
+      "name": "Tingsholmsgymnasiet ULRICEHAMN",
       "type": "Gymnasium",
       "adress": {
         "street": "Tre Rosors Väg 21",
@@ -26403,7 +26403,7 @@
     },
     {
       "id": 1827,
-      "name": "Växjö Fria Gymnasium",
+      "name": "Växjö Fria Gymnasium VÄXJÖ",
       "type": "Gymnasium",
       "adress": {
         "street": "Västra Esplanaden  9 A",
@@ -26529,7 +26529,7 @@
     },
     {
       "id": 1863,
-      "name": "Birger Sjöberggymnasiet",
+      "name": "Birger Sjöberggymnasiet VÄNERSBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Idrottsgatan  3",
@@ -27733,7 +27733,7 @@
     },
     {
       "id": 2381,
-      "name": "Linneaskolan 7-9",
+      "name": "Linneaskolan 7-9 LJUNGSKILE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Kursgårdsvägen 6",
@@ -28153,7 +28153,7 @@
     },
     {
       "id": 2662,
-      "name": "Rolfstorp skolan (7-9)",
+      "name": "Rolfstorp skolan (7-9) ROLFSTORP",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Per Lars väg 7",
@@ -28433,7 +28433,7 @@
     },
     {
       "id": 2690,
-      "name": "Junedalskolan",
+      "name": "Junedalskolan JÖNKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Gjuterigatan 27",
@@ -28881,7 +28881,7 @@
     },
     {
       "id": 2764,
-      "name": "Stålforsskolan",
+      "name": "Stålforsskolan ESKILSTUNA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Gillbergavägen  5",
@@ -35727,7 +35727,7 @@
     },
     {
       "id": 3691,
-      "name": "Sörgårdsskolan",
+      "name": "Sörgårdsskolan VÄLLINGBY",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Tenorgränd 5",
@@ -39703,7 +39703,7 @@
     },
     {
       "id": 5688,
-      "name": "Nordhemsskolan 4-9",
+      "name": "Nordhemsskolan 4-9 GÖTEBORG",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Nordhemsgatan 51",
@@ -40109,7 +40109,7 @@
     },
     {
       "id": 6113,
-      "name": "Lindholmens Tekniska Gymnasium",
+      "name": "Lindholmens Tekniska Gymnasium GÖTEBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Diagonalen 6",
@@ -53885,7 +53885,7 @@
     },
     {
       "id": 8628,
-      "name": "Sanda Idrottshögstadium 7-9",
+      "name": "Sanda Idrottshögstadium 7-9 HUSKVARNA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Birkagatan  42",
@@ -55537,7 +55537,7 @@
     },
     {
       "id": 8688,
-      "name": "Ekhamraskolan",
+      "name": "Ekhamraskolan MARIESTAD",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Carlbecksvägen 4 A",
@@ -55985,7 +55985,7 @@
     },
     {
       "id": 8743,
-      "name": "Raoul Wallenbergskolan",
+      "name": "Raoul Wallenbergskolan BROMMA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Beckombergavägen 316",
@@ -56923,7 +56923,7 @@
     },
     {
       "id": 8903,
-      "name": "Raoul Wallenbergskolan",
+      "name": "Raoul Wallenbergskolan SKÖVDE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Rådmansgatan 24",
@@ -59065,7 +59065,7 @@
     },
     {
       "id": 4010,
-      "name": "Ekenässkolan 7-9",
+      "name": "Ekenässkolan 7-9 ESLÖV",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Skolgatan 18",
@@ -62053,6 +62053,20 @@
         "street": "Trädgårdsvägen 30",
         "city": "Nykvarn",
         "postalCode": 15532,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11388,
+      "name": "Internationela Engelska Skolan (IES) VÄXJÖ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Bohlins gata 4B",
+        "city": "Växjö",
+        "postalCode": 35221,
         "country": "Sverige",
         "countryCode": "SE"
       },
