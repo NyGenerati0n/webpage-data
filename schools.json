@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-05T01:03:24.884Z",
-  "syncedAt": "2026-10-05T01:03:04.442Z",
+  "generatedAt": "2026-10-06T01:03:11.851Z",
+  "syncedAt": "2026-10-06T01:03:03.389Z",
   "schools": [
     {
       "id": 2025,
@@ -197,7 +197,7 @@
       "name": "Landsbro skola LANDSBRO",
       "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "Sävsjövägen 27",
+        "street": "Sävsjövägen 27C",
         "city": "Landsbro",
         "postalCode": 57472,
         "country": "Sverige",
