@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-07T01:03:13.456Z",
-  "syncedAt": "2026-10-07T01:03:03.715Z",
+  "generatedAt": "2026-10-08T01:03:12.283Z",
+  "syncedAt": "2026-10-08T01:03:03.389Z",
   "schools": [
     {
       "id": 2025,
@@ -303,6 +303,25 @@
         {
           "name": "NG Europaportens grundskola F-9 MALMÖ",
           "coach": "Felipe Arffman"
+        }
+      ]
+    },
+    {
+      "id": 3044,
+      "name": "Ekhammarskolan KUNGSÄNGEN",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Skolvägen 20",
+        "city": "KUNGSÄNGEN",
+        "postalCode": 19634,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Ekhammarskolan KUNGSÄNGEN",
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -1765,25 +1784,6 @@
       "groups": [
         {
           "name": "NG Rytmus ÖREBRO",
-          "coach": "Sara Widell"
-        }
-      ]
-    },
-    {
-      "id": 8624,
-      "name": "Örebro universitet ÖREBRO",
-      "type": "Högskola/Universitet",
-      "adress": {
-        "street": "Fakultetsgatan 1",
-        "city": "ÖREBRO",
-        "postalCode": 70281,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Örebro universitet ÖREBRO",
           "coach": "Sara Widell"
         }
       ]
@@ -10505,20 +10505,6 @@
         "street": "Mjölnarvägen 24 -",
         "city": "NACKA",
         "postalCode": 13131,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 3044,
-      "name": "Ekhammarskolan",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Skolvägen 20",
-        "city": "KUNGSÄNGEN",
-        "postalCode": 19634,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -53849,6 +53835,20 @@
         "street": "Svengrensgatan 9",
         "city": "ESKILSTUNA",
         "postalCode": 63230,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 8624,
+      "name": "Örebro universitet ÖREBRO",
+      "type": "Högskola/Universitet",
+      "adress": {
+        "street": "Fakultetsgatan 1",
+        "city": "ÖREBRO",
+        "postalCode": 70281,
         "country": "Sverige",
         "countryCode": "SE"
       },
