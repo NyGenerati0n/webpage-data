@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-08T01:03:12.283Z",
-  "syncedAt": "2026-10-08T01:03:03.389Z",
+  "generatedAt": "2026-10-09T01:03:16.942Z",
+  "syncedAt": "2026-10-09T01:03:04.780Z",
   "schools": [
     {
       "id": 2025,
@@ -474,6 +474,25 @@
         {
           "name": "NG Östersunds Gymnasium ÖSTERSUND",
           "coach": "Andreas Häger"
+        }
+      ]
+    },
+    {
+      "id": 6341,
+      "name": "Gudmundråskolan 7-9",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "BOX 103",
+        "city": "KRAMFORS",
+        "postalCode": 87223,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Gudmundråskolan 7-9",
+          "coach": "Zackarias Hagström"
         }
       ]
     },
@@ -20319,20 +20338,6 @@
         "street": "Gubbhögen 310",
         "city": "STRÖMSUND",
         "postalCode": 83396,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 6341,
-      "name": "Gudmundråskolan 7-9",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "BOX 103",
-        "city": "KRAMFORS",
-        "postalCode": 87223,
         "country": "Sverige",
         "countryCode": "SE"
       },
