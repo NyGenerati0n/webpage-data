@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T01:03:16.942Z",
-  "syncedAt": "2026-10-09T01:03:04.780Z",
+  "generatedAt": "2026-10-10T01:03:14.741Z",
+  "syncedAt": "2026-10-10T01:03:04.296Z",
   "schools": [
     {
       "id": 2025,
@@ -1980,7 +1980,7 @@
     },
     {
       "id": 8929,
-      "name": "Klara Teoretiska Gymnasium GÖTEBORG",
+      "name": "Klara Teoretiska Gymnasium Postgatan GÖTEBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Postgatan 5",
@@ -1992,7 +1992,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Klara Teoretiska gymnasium GÖTEBORG",
+          "name": "NG Klara Teoretiska Gymnasium Postgatan GÖTEBORG",
           "coach": "Hanna Johansson"
         }
       ]
@@ -61873,9 +61873,9 @@
       "name": "Åkersviksskolan SUNDSVALL",
       "type": "Övre grundskola (7-9)",
       "adress": {
-        "street": "",
-        "city": "",
-        "postalCode": "",
+        "street": "Hovrättsgatan 2",
+        "city": "Sundsvall",
+        "postalCode": 85233,
         "country": "Sverige",
         "countryCode": "SE"
       },
