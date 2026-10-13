@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-12T01:03:15.063Z",
-  "syncedAt": "2026-10-12T01:03:02.806Z",
+  "generatedAt": "2026-10-13T01:03:17.679Z",
+  "syncedAt": "2026-10-13T01:03:03.867Z",
   "schools": [
     {
       "id": 2025,
@@ -607,25 +607,6 @@
         {
           "name": "NG Celsiusskolan UPPSALA",
           "coach": "Sara Widell"
-        }
-      ]
-    },
-    {
-      "id": 1601,
-      "name": "Nolhagaskolan (6-9) ALINGSÅS",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Nolhaga Allé",
-        "city": "ALINGSÅS",
-        "postalCode": 44155,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Nolhagaskolan (6-9) ALINGSÅS",
-          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -21736,6 +21717,20 @@
       "type": "Gymnasium",
       "adress": {
         "street": "Teatergatan 13",
+        "city": "ALINGSÅS",
+        "postalCode": 44155,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 1601,
+      "name": "Nolhagaskolan (6-9) ALINGSÅS",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Nolhaga Allé",
         "city": "ALINGSÅS",
         "postalCode": 44155,
         "country": "Sverige",
@@ -57502,12 +57497,12 @@
     },
     {
       "id": 8956,
-      "name": "Lapplands Gymnasium",
+      "name": "Lapplands Gymnasium GÄLLIVARE",
       "type": "Gymnasium",
       "adress": {
-        "street": "",
-        "city": "",
-        "postalCode": "",
+        "street": "Postgatan 2",
+        "city": "Gällivare",
+        "postalCode": 98231,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -62072,6 +62067,48 @@
         "street": "Bohlins gata 4B",
         "city": "Växjö",
         "postalCode": 35221,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11404,
+      "name": "Lapplands Gymnasium KIRUNA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Midnattssolsvägen 25",
+        "city": "Kiruna",
+        "postalCode": 98130,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11403,
+      "name": "Lapplands Gymnasium JOKKMOKK",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Storgatan 57",
+        "city": "Jokkmokk",
+        "postalCode": 96231,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11405,
+      "name": "Lapplands Gymnasium PAJALA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Biblioteksvägen 1",
+        "city": "Pajala",
+        "postalCode": 98431,
         "country": "Sverige",
         "countryCode": "SE"
       },
