@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T01:03:17.679Z",
-  "syncedAt": "2026-10-13T01:03:03.867Z",
+  "generatedAt": "2026-10-14T01:03:15.690Z",
+  "syncedAt": "2026-10-14T01:03:05.398Z",
   "schools": [
     {
       "id": 2025,
@@ -2032,25 +2032,6 @@
         {
           "name": "NG Vägga gymnasieskola KARLSHAMN",
           "coach": "Felipe Arffman"
-        }
-      ]
-    },
-    {
-      "id": 9023,
-      "name": "Brogymnasiet KRISTINEHAMN",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Gamla Kyrkogatan 2",
-        "city": "KRISTINEHAMN",
-        "postalCode": 68131,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Brogymnasiet KRISTINEHAMN",
-          "coach": "Evelina Svärd"
         }
       ]
     },
@@ -58329,6 +58310,20 @@
         "street": "Stubbåkersgatan 21",
         "city": "MÖLNDAL",
         "postalCode": 43144,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 9023,
+      "name": "Brogymnasiet KRISTINEHAMN",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Gamla Kyrkogatan 2",
+        "city": "KRISTINEHAMN",
+        "postalCode": 68131,
         "country": "Sverige",
         "countryCode": "SE"
       },
