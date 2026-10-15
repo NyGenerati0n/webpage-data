@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T01:03:15.690Z",
-  "syncedAt": "2026-10-14T01:03:05.398Z",
+  "generatedAt": "2026-10-15T01:03:16.459Z",
+  "syncedAt": "2026-10-15T01:03:07.832Z",
   "schools": [
     {
       "id": 2025,
@@ -453,7 +453,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Hagabodaskolan HABO",
+          "name": "NG Hagaboda HABO",
           "coach": "Hanna Johansson"
         }
       ]
@@ -479,7 +479,7 @@
     },
     {
       "id": 6341,
-      "name": "Gudmundråskolan 7-9",
+      "name": "Gudmundråskolan 7-9 KRAMFORS",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "BOX 103",
@@ -491,7 +491,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Gudmundråskolan 7-9",
+          "name": "NG Gudmundråskolan 7-9 KRAMFORS",
           "coach": "Zackarias Hagström"
         }
       ]
