@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T01:03:13.756Z",
-  "syncedAt": "2026-10-20T01:03:03.036Z",
+  "generatedAt": "2026-10-21T01:03:14.475Z",
+  "syncedAt": "2026-10-21T01:03:03.959Z",
   "schools": [
     {
       "id": 2025,
@@ -1386,6 +1386,25 @@
         {
           "name": "NG Nyhemsskolan F-9 FINSPÅNG",
           "coach": "Joel Hardeberg"
+        }
+      ]
+    },
+    {
+      "id": 2330,
+      "name": "Stockholms Estetiska Gymnasium",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Trekantsv.  3",
+        "city": "STOCKHOLM",
+        "postalCode": 11743,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Stockholms Estetiska Gymnasium",
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -23724,7 +23743,7 @@
     },
     {
       "id": 5776,
-      "name": "Realgymnasiet Göteborg",
+      "name": "Realgymnasiet GÖTEBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Första Långgatan 20",
@@ -27328,20 +27347,6 @@
         "street": "Stora Tvärgränd 1-3",
         "city": "BORÅS",
         "postalCode": 50433,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2330,
-      "name": "Stockholms Estetiska Gymnasium",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Trekantsv.  3",
-        "city": "STOCKHOLM",
-        "postalCode": 11743,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -47874,7 +47879,7 @@
     },
     {
       "id": 7316,
-      "name": "Hälsingegymnasiet",
+      "name": "Hälsingegymnasiet VALLSTA",
       "type": "Gymnasium",
       "adress": {
         "street": "D   Norra Orbadenv. 29",
@@ -48672,7 +48677,7 @@
     },
     {
       "id": 7383,
-      "name": "Karl Johans skola",
+      "name": "Karl Johans skola ÖREBRO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Älvtomtagatan 56",
