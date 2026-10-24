@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-23T01:03:10.538Z",
-  "syncedAt": "2026-10-23T01:03:02.722Z",
+  "generatedAt": "2026-10-24T01:03:12.182Z",
+  "syncedAt": "2026-10-24T01:03:03.543Z",
   "schools": [
     {
       "id": 2025,
@@ -5585,7 +5585,7 @@
     },
     {
       "id": 5162,
-      "name": "Ester Mosessons gymnasium",
+      "name": "Ester Mosessons gymnasium GÖTEBORG",
       "type": "Gymnasium",
       "adress": {
         "street": "Lärdomsgatan 5",
@@ -6005,7 +6005,7 @@
     },
     {
       "id": 5264,
-      "name": "Guldkroksskolan (7-9)",
+      "name": "Guldkroksskolan (7-9) HJO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "",
@@ -38933,7 +38933,7 @@
     },
     {
       "id": 5507,
-      "name": "Kvarnbyskolan 7-9",
+      "name": "Kvarnbyskolan 7-9 MÖLNDAL",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Alléen",
@@ -59933,7 +59933,7 @@
     },
     {
       "id": 4310,
-      "name": "Klågerupsskolan F-9",
+      "name": "Klågerupsskolan F-9 KLÅGERUP",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Stensminnevägen 51",
