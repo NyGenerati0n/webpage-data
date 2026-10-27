@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T02:03:13.275Z",
-  "syncedAt": "2026-10-26T02:03:03.253Z",
+  "generatedAt": "2026-10-27T02:03:17.630Z",
+  "syncedAt": "2026-10-27T02:03:05.488Z",
   "schools": [
     {
       "id": 2025,
@@ -175,8 +175,8 @@
     },
     {
       "id": 2268,
-      "name": "Bäckaskolan (1-9) GNOSJÖ",
-      "type": "Övre grundskola (7-9)",
+      "name": "Bäckaskolan GNOSJÖ",
+      "type": "Grundskola (F-9)",
       "adress": {
         "street": "Läroverksgatan 17",
         "city": "GNOSJÖ",
@@ -187,7 +187,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Bäckaskolan (1-9) GNOSJÖ",
+          "name": "NG Bäckaskolan GNOSJÖ",
           "coach": "Hanna Johansson"
         }
       ]
@@ -213,8 +213,8 @@
     },
     {
       "id": 5044,
-      "name": "Bergumsskolan F-9 OLOFSTORP",
-      "type": "Övre grundskola (7-9)",
+      "name": "Bergumsskolan OLOFSTORP",
+      "type": "Grundskola (F-9)",
       "adress": {
         "street": "Lerumsvägen 20",
         "city": "OLOFSTORP",
@@ -225,14 +225,14 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Bergumsskolan F-9 OLOFSTORP",
+          "name": "NG Bergumsskolan OLOFSTORP",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 5181,
-      "name": "Flahultsskolan 7-9 NORRAHAMMAR",
+      "name": "Flahultsskolan NORRAHAMMAR",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Vallgatan",
@@ -244,7 +244,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Flahultsskolan 7-9 NORRAHAMMAR",
+          "name": "NG Flahultsskolan NORRAHAMMAR",
           "coach": "Hanna Johansson"
         }
       ]
@@ -555,7 +555,7 @@
     },
     {
       "id": 1552,
-      "name": "Dalängskolan 7-9 LIDKÖPING",
+      "name": "Dalängskolan LIDKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Esplanaden 82",
@@ -567,7 +567,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Dalängskolan 7-9 LIDKÖPING",
+          "name": "NG Dalängskolan LIDKÖPING",
           "coach": "Hanna Johansson"
         }
       ]
@@ -650,7 +650,7 @@
     },
     {
       "id": 1621,
-      "name": "Ribbaskolan 7-9 GRÄNNA",
+      "name": "Ribbaskolan (7-9) GRÄNNA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Gärdesvägen 3",
@@ -662,7 +662,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Ribbaskolan 7-9 GRÄNNA",
+          "name": "NG Ribbaskolan (7-9) GRÄNNA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1410,7 +1410,7 @@
     },
     {
       "id": 2342,
-      "name": "Aroseniusskolan (7-9) ÄLVÄNGEN",
+      "name": "Aroseniusskolan ÄLVÄNGEN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Vallmovägen",
@@ -1422,7 +1422,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Aroseniusskolan (7-9) ÄLVÄNGEN",
+          "name": "NG Aroseniusskolan ÄLVÄNGEN",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1809,8 +1809,8 @@
     },
     {
       "id": 8310,
-      "name": "Internationella Engelska skolan 1-9 HUSKVARNA",
-      "type": "Övre grundskola (7-9)",
+      "name": "Internationella Engelska skolan HUSKVARNA",
+      "type": "Grundskola (F-9)",
       "adress": {
         "street": "Birkagatan  41",
         "city": "HUSKVARNA",
@@ -1821,15 +1821,15 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Internationella Engelska skolan 1-9 HUSKVARNA",
+          "name": "NG Internationella Engelska skolan HUSKVARNA",
           "coach": "Hanna Johansson"
         }
       ]
     },
     {
       "id": 8331,
-      "name": "Vittra Gerdsken (F-9) ALINGSÅS",
-      "type": "Övre grundskola (7-9)",
+      "name": "Vittra Gerdsken ALINGSÅS",
+      "type": "Grundskola (F-9)",
       "adress": {
         "street": "Lärkvägen 10",
         "city": "ALINGSÅS",
@@ -1840,7 +1840,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Vittra Gerdsken (F-9) ALINGSÅS",
+          "name": "NG Vittra Gerdsken ALINGSÅS",
           "coach": "Hanna Johansson"
         }
       ]
@@ -23323,7 +23323,7 @@
     },
     {
       "id": 2623,
-      "name": "Torsbergsgymnasiet",
+      "name": "Torsbergsgymnasiet BOLLNÄS",
       "type": "Gymnasium",
       "adress": {
         "street": "Läroverksgatan  36",
@@ -28615,7 +28615,7 @@
     },
     {
       "id": 2723,
-      "name": "Renforsskolan",
+      "name": "Renforsskolan VINDELN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Storvägen 40",
@@ -49811,7 +49811,7 @@
     },
     {
       "id": 7642,
-      "name": "Norrsätraskolan F-7",
+      "name": "Norrsätraskolan F-7 SANDVIKEN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Sandvikens",
@@ -51631,7 +51631,7 @@
     },
     {
       "id": 7946,
-      "name": "Stora Sätraskolan F-9",
+      "name": "Stora Sätraskolan F-9 GÄVLE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Porfyrvägen 11",
@@ -62109,6 +62109,34 @@
         "street": "Biblioteksvägen 1",
         "city": "Pajala",
         "postalCode": 98431,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11432,
+      "name": "Alice Lundsgymnasiet BORLÄNGE",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Röda vägen 3",
+        "city": "Borlänge",
+        "postalCode": 78170,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11433,
+      "name": "Affärsgymnasiet GÄVLE",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Holmparken 1",
+        "city": "Gävle",
+        "postalCode": 80310,
         "country": "Sverige",
         "countryCode": "SE"
       },
