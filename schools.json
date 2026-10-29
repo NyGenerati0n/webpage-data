@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-28T02:03:20.779Z",
-  "syncedAt": "2026-10-28T02:03:04.509Z",
+  "generatedAt": "2026-10-29T02:03:11.453Z",
+  "syncedAt": "2026-10-29T02:03:02.717Z",
   "schools": [
     {
       "id": 2025,
@@ -2334,7 +2334,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Nordic International School KARLSTAD",
+          "name": "NG Nordic Karlstad KARLSTAD",
           "coach": "Evelina Svärd"
         }
       ]
