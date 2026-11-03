@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-02T02:03:18.277Z",
-  "syncedAt": "2026-11-02T02:03:04.721Z",
+  "generatedAt": "2026-11-03T02:03:10.767Z",
+  "syncedAt": "2026-11-03T02:03:02.514Z",
   "schools": [
     {
       "id": 2025,
@@ -18073,7 +18073,7 @@
     },
     {
       "id": 2808,
-      "name": "Karlfeldtgymnasiet",
+      "name": "Karlfeldtgymnasiet AVESTA",
       "type": "Gymnasium",
       "adress": {
         "street": "Frejgatan 1",
