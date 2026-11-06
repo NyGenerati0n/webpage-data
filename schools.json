@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-05T02:03:12.658Z",
-  "syncedAt": "2026-11-05T02:03:03.635Z",
+  "generatedAt": "2026-11-06T02:03:17.632Z",
+  "syncedAt": "2026-11-06T02:03:03.542Z",
   "schools": [
     {
       "id": 2025,
@@ -75,6 +75,25 @@
         {
           "name": "NG Berzeliusskolan LINKÖPING",
           "coach": "Joel Hardeberg"
+        }
+      ]
+    },
+    {
+      "id": 2055,
+      "name": "Grenadjärskolan ÖREBRO",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Pionjärgatan 3",
+        "city": "ÖREBRO",
+        "postalCode": 70381,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Grenadjärskolan ÖREBRO",
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -417,6 +436,25 @@
         {
           "name": "NG Katarinaskolan UPPSALA",
           "coach": "Sara Widell"
+        }
+      ]
+    },
+    {
+      "id": 2808,
+      "name": "Karlfeldtgymnasiet AVESTA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Frejgatan 1",
+        "city": "AVESTA",
+        "postalCode": 77481,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Karlfeldtgymnasiet AVESTA",
+          "coach": "Hanna Ankarberg"
         }
       ]
     },
@@ -910,6 +948,25 @@
       "groups": [
         {
           "name": "NG Rörviks skola RÖRVIK",
+          "coach": "Hanna Johansson"
+        }
+      ]
+    },
+    {
+      "id": 2530,
+      "name": "Sävsjö kristna skola SÄVSJÖ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Storgatan 9",
+        "city": "SÄVSJÖ",
+        "postalCode": 57622,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Sävsjö kristna skola SÄVSJÖ",
           "coach": "Hanna Johansson"
         }
       ]
@@ -1961,7 +2018,7 @@
     },
     {
       "id": 8923,
-      "name": "Ansgarskolorna (7-9) UPPSALA",
+      "name": "Kyrkskolan UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Axel Johanssons gata 4",
@@ -1973,7 +2030,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Ansgarskolorna (7-9) UPPSALA",
+          "name": "NG Kyrkskolan UPPSALA",
           "coach": "Sara Widell"
         }
       ]
@@ -2378,6 +2435,25 @@
       ]
     },
     {
+      "id": 11545,
+      "name": "Trädgårdsskolan UPPSALA",
+      "type": "Lägre grundskola (F-6)",
+      "adress": {
+        "street": "Axel Johanssons gata 4",
+        "city": "Uppsala",
+        "postalCode": 75450,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Trädgårdsskolan UPPSALA",
+          "coach": "Sara Widell"
+        }
+      ]
+    },
+    {
       "id": 1507,
       "name": "Hedbergska (Sundsvalls gymnasium)",
       "type": "Gymnasium",
@@ -2595,20 +2671,6 @@
         "street": "Grosvadsvägen 5",
         "city": "FINSPÅNG",
         "postalCode": 61241,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2055,
-      "name": "Grenadjärskolan ÖREBRO",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Pionjärgatan 3",
-        "city": "ÖREBRO",
-        "postalCode": 70381,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -18072,20 +18134,6 @@
       "groups": []
     },
     {
-      "id": 2808,
-      "name": "Karlfeldtgymnasiet AVESTA",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Frejgatan 1",
-        "city": "AVESTA",
-        "postalCode": 77481,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 2809,
       "name": "Johan Olovskolan (F-9)",
       "type": "Övre grundskola (7-9)",
@@ -22937,20 +22985,6 @@
         "street": "Järngården 3",
         "city": "VRETA KLOSTER",
         "postalCode": 59076,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2530,
-      "name": "Sävsjö kristna skola SÄVSJÖ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Storgatan 9",
-        "city": "SÄVSJÖ",
-        "postalCode": 57622,
         "country": "Sverige",
         "countryCode": "SE"
       },
