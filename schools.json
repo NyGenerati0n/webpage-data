@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-06T02:03:17.632Z",
-  "syncedAt": "2026-11-06T02:03:03.542Z",
+  "generatedAt": "2026-11-07T02:03:12.425Z",
+  "syncedAt": "2026-11-07T02:03:03.209Z",
   "schools": [
     {
       "id": 2025,
@@ -1143,6 +1143,25 @@
       ]
     },
     {
+      "id": 1801,
+      "name": "Ansgargymnasiet UPPSALA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Axel Johanssons gata  3",
+        "city": "UPPSALA",
+        "postalCode": 75450,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Ansgargymnasiet UPPSALA",
+          "coach": "Sara Widell"
+        }
+      ]
+    },
+    {
       "id": 1812,
       "name": "Njudungsgymnasiet VETLANDA",
       "type": "Gymnasium",
@@ -1922,6 +1941,25 @@
       ]
     },
     {
+      "id": 8711,
+      "name": "Drottning Blankas Gymnasieskola TROLLHÄTTAN",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Drottninggatan 37",
+        "city": "TROLLHÄTTAN",
+        "postalCode": 46132,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Drottning Blankas Gymnasieskola TROLLHÄTTAN",
+          "coach": "Hanna Johansson"
+        }
+      ]
+    },
+    {
       "id": 8733,
       "name": "Stureskolan BODEN",
       "type": "Övre grundskola (7-9)",
@@ -2013,6 +2051,25 @@
         {
           "name": "NG Rytmus BORLÄNGE",
           "coach": "Hanna Ankarberg"
+        }
+      ]
+    },
+    {
+      "id": 8918,
+      "name": "Palmbladsskolan UPPSALA",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Palmbladsgatan 14",
+        "city": "UPPSALA",
+        "postalCode": 75450,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Palmbladsskolan UPPSALA",
+          "coach": "Sara Widell"
         }
       ]
     },
@@ -26359,20 +26416,6 @@
         "street": "Skolgatan  55",
         "city": "UPPSALA",
         "postalCode": 75332,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 1801,
-      "name": "Ansgargymnasiet",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Axel Johanssons gata  3",
-        "city": "UPPSALA",
-        "postalCode": 75450,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -55696,20 +55739,6 @@
       "groups": []
     },
     {
-      "id": 8711,
-      "name": "Drottning Blankas Gymnasieskola TROLLHÄTTAN",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Drottninggatan 37",
-        "city": "TROLLHÄTTAN",
-        "postalCode": 46132,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
       "id": 8713,
       "name": "Umeå universitet",
       "type": "Högskola/Universitet",
@@ -57075,20 +57104,6 @@
         "street": "Silverdalsgatan 2",
         "city": "ÄLMHULT",
         "postalCode": 34331,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 8918,
-      "name": "Palmbladsskolan",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Palmbladsgatan 14",
-        "city": "UPPSALA",
-        "postalCode": 75450,
         "country": "Sverige",
         "countryCode": "SE"
       },
