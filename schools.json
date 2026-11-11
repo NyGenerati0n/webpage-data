@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T02:03:14.093Z",
-  "syncedAt": "2026-11-10T02:03:03.132Z",
+  "generatedAt": "2026-11-11T02:03:40.765Z",
+  "syncedAt": "2026-11-11T02:03:07.488Z",
   "schools": [
     {
       "id": 2025,
@@ -4122,7 +4122,7 @@
     },
     {
       "id": 7547,
-      "name": "Lötenskolan",
+      "name": "Lötenskolan FLEN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "",
@@ -10240,7 +10240,7 @@
     },
     {
       "id": 3016,
-      "name": "DiStra -Öst",
+      "name": "DiStra -Öst STOCKHOLM",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "BOX 4166",
@@ -16848,7 +16848,7 @@
     },
     {
       "id": 8064,
-      "name": "Tranmursskolan",
+      "name": "Tranmursskolan GÄVLE",
       "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "Pukslagarvägen 20",
@@ -26494,7 +26494,7 @@
     },
     {
       "id": 1835,
-      "name": "Haganässkolan",
+      "name": "Haganässkolan ÄLMHULT",
       "type": "Gymnasium",
       "adress": {
         "street": "Östra Esplanaden 15",
@@ -49972,7 +49972,7 @@
     },
     {
       "id": 7653,
-      "name": "Nya Nynässkolan",
+      "name": "Nya Nynässkolan GÄVLE",
       "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "Brändströmgatan 22",
@@ -51512,7 +51512,7 @@
     },
     {
       "id": 7928,
-      "name": "Stenhamreskolan 6-12 år",
+      "name": "Stenhamreskolan 6-12 år LJUSDAL",
       "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "",
@@ -56230,7 +56230,7 @@
     },
     {
       "id": 8793,
-      "name": "Nya Skolan (F-9)",
+      "name": "Nya Skolan (F-9) LILLA EDET",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Monlisgatan 2",
@@ -59660,7 +59660,7 @@
     },
     {
       "id": 4218,
-      "name": "Malmö Idrottsgymnasium",
+      "name": "Malmö Idrottsgymnasium MALMÖ",
       "type": "Gymnasium",
       "adress": {
         "street": "Erik Perssons väg 41 F",
@@ -62186,6 +62186,20 @@
         "street": "Holmparken 1",
         "city": "Gävle",
         "postalCode": 80310,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11550,
+      "name": "Vänerskolan VÄNERSBORG",
+      "type": "Grundskola (F-9)",
+      "adress": {
+        "street": "Korsgatan 22",
+        "city": "Vänersborg",
+        "postalCode": 46236,
         "country": "Sverige",
         "countryCode": "SE"
       },
