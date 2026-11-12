@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T02:03:40.765Z",
-  "syncedAt": "2026-11-11T02:03:07.488Z",
+  "generatedAt": "2026-11-12T02:03:16.532Z",
+  "syncedAt": "2026-11-12T02:03:04.393Z",
   "schools": [
     {
       "id": 2025,
@@ -1289,7 +1289,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Rudbecks gymnasiet ÖREBRO",
+          "name": "NG Rudbecksgymnasiet ÖREBRO",
           "coach": "Sara Widell"
         }
       ]
@@ -11500,7 +11500,7 @@
     },
     {
       "id": 6944,
-      "name": "Brantingsskolan",
+      "name": "Brantingsskolan UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Hjalmar Brantingsgatan 37",
@@ -18024,7 +18024,7 @@
     },
     {
       "id": 8186,
-      "name": "Erlaskolan Östra F-9",
+      "name": "Erlaskolan Östra F-9 NORRKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Vikboplan 11",
@@ -26214,7 +26214,7 @@
     },
     {
       "id": 3325,
-      "name": "Käppala skola",
+      "name": "Käppala skola LIDINGÖ",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Killingevägen 13",
@@ -27110,7 +27110,7 @@
     },
     {
       "id": 1976,
-      "name": "Stöpenskolan F-9",
+      "name": "Stöpenskolan F-9 SKÖVDE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Hästskovägen 4",
@@ -28174,7 +28174,7 @@
     },
     {
       "id": 2660,
-      "name": "Apladalsskolan",
+      "name": "Apladalsskolan VÄRNAMO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Ouchterlonygatan 9",
@@ -49062,7 +49062,7 @@
     },
     {
       "id": 7422,
-      "name": "Hosiannaskolan 7-9",
+      "name": "Hosiannaskolan 7-9 GNARP",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Bergevägen 7 A",
@@ -57630,7 +57630,7 @@
     },
     {
       "id": 8963,
-      "name": "JENSEN grundskola Örebro",
+      "name": "JENSEN grundskola ÖREBRO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Rudbecksgatan 36",
@@ -58134,7 +58134,7 @@
     },
     {
       "id": 9003,
-      "name": "Lugnetgymnasiet",
+      "name": "Lugnetgymnasiet FALUN",
       "type": "Gymnasium",
       "adress": {
         "street": "Lugnetvägen  3",
