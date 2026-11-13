@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T02:03:16.532Z",
-  "syncedAt": "2026-11-12T02:03:04.393Z",
+  "generatedAt": "2026-11-13T02:03:12.980Z",
+  "syncedAt": "2026-11-13T02:03:03.291Z",
   "schools": [
     {
       "id": 2025,
@@ -1937,6 +1937,25 @@
         {
           "name": "NG Kunskapsskolan ÖREBRO",
           "coach": "Sara Widell"
+        }
+      ]
+    },
+    {
+      "id": 8687,
+      "name": "Östrabo Yrkes (Uddevalla gymn.)",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Infanterivägen  1",
+        "city": "UDDEVALLA",
+        "postalCode": 45134,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Östrabo Yrkes (Uddevalla gymn.)",
+          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -55578,20 +55597,6 @@
         "street": "",
         "city": "KARLSHAMN",
         "postalCode": "",
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 8687,
-      "name": "Östrabo Yrkes (Uddevalla gymn.)",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Infanterivägen  1",
-        "city": "UDDEVALLA",
-        "postalCode": 45134,
         "country": "Sverige",
         "countryCode": "SE"
       },
