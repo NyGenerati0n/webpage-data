@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-13T02:03:12.980Z",
-  "syncedAt": "2026-11-13T02:03:03.291Z",
+  "generatedAt": "2026-11-14T02:03:10.424Z",
+  "syncedAt": "2026-11-14T02:03:02.345Z",
   "schools": [
     {
       "id": 2025,
@@ -263,7 +263,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Flahultsskolan NORRAHAMMAR",
+          "name": "NG Flahult NORRAHAMMAR",
           "coach": "Hanna Johansson"
         }
       ]
@@ -911,25 +911,6 @@
         {
           "name": "The Way Withalaskolan VETLANDA",
           "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
-      "id": 2487,
-      "name": "Strömsnässkolan STRÖMSNÄSBRUK",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Järnvägsgatan 51",
-        "city": "STRÖMSNÄSBRUK",
-        "postalCode": 28731,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Strömsnässkolan STRÖMSNÄSBRUK",
-          "coach": "Felipe Arffman"
         }
       ]
     },
@@ -1942,7 +1923,7 @@
     },
     {
       "id": 8687,
-      "name": "Östrabo Yrkes (Uddevalla gymn.)",
+      "name": "Östrabo Yrkes (Uddevalla gymn.) UDDEVALLA",
       "type": "Gymnasium",
       "adress": {
         "street": "Infanterivägen  1",
@@ -1954,7 +1935,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Östrabo Yrkes (Uddevalla gymn.)",
+          "name": "NG Östrabo Yrkes (Uddevalla gymn.) UDDEVALLA",
           "coach": "Hanna Johansson"
         }
       ]
@@ -2094,7 +2075,7 @@
     },
     {
       "id": 8923,
-      "name": "Kyrkskolan UPPSALA",
+      "name": "Kyrkskolan (Ansgarskolorna 7-9) UPPSALA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Axel Johanssons gata 4",
@@ -2106,7 +2087,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Kyrkskolan UPPSALA",
+          "name": "NG Kyrkskolan (Ansgarskolorna 7-9) UPPSALA",
           "coach": "Sara Widell"
         }
       ]
@@ -2512,7 +2493,7 @@
     },
     {
       "id": 11545,
-      "name": "Trädgårdsskolan UPPSALA",
+      "name": "Trädgårdsskolan (Ansgarskolorna 4-6) UPPSALA",
       "type": "Lägre grundskola (F-6)",
       "adress": {
         "street": "Axel Johanssons gata 4",
@@ -2524,7 +2505,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "NG Trädgårdsskolan UPPSALA",
+          "name": "NG Trädgårdsskolan (Ansgarskolorna 4-6) UPPSALA",
           "coach": "Sara Widell"
         }
       ]
@@ -2545,7 +2526,7 @@
     },
     {
       "id": 2013,
-      "name": "Gamlebyvikens Friskola F-9",
+      "name": "Gamlebyvikens Friskola F-9 GAMLEBY",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Storgatan 10",
@@ -14263,7 +14244,7 @@
     },
     {
       "id": 7780,
-      "name": "Rotskärsskolan",
+      "name": "Rotskärsskolan SKUTSKÄR",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Brovägen 4",
@@ -18869,7 +18850,7 @@
     },
     {
       "id": 2875,
-      "name": "JENSEN Gymnasium Uppsala",
+      "name": "JENSEN Gymnasium UPPSALA",
       "type": "Gymnasium",
       "adress": {
         "street": "Gamla Torget 7",
@@ -22900,6 +22881,20 @@
       "groups": []
     },
     {
+      "id": 2487,
+      "name": "Strömsnässkolan STRÖMSNÄSBRUK",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Järnvägsgatan 51",
+        "city": "STRÖMSNÄSBRUK",
+        "postalCode": 28731,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2489,
       "name": "Finnbacksskolan",
       "type": "Övre grundskola (7-9)",
@@ -24595,7 +24590,7 @@
     },
     {
       "id": 5966,
-      "name": "Tenhults naturbruksgymnasium",
+      "name": "Tenhults naturbruksgymnasium TENHULT",
       "type": "Gymnasium",
       "adress": {
         "street": "Huskvarnavägen 28",
@@ -25995,7 +25990,7 @@
     },
     {
       "id": 3307,
-      "name": "Kvarnbergsskolan",
+      "name": "Kvarnbergsskolan GUSTAVSBERG",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Bergsgatan",
@@ -26009,7 +26004,7 @@
     },
     {
       "id": 3308,
-      "name": "Kvarnbergsskolan",
+      "name": "Kvarnbergsskolan HUDDINGE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Gymnasievägen 6",
@@ -26457,7 +26452,7 @@
     },
     {
       "id": 1818,
-      "name": "Västerviks gymnasium",
+      "name": "Västerviks gymnasium VÄSTERVIK",
       "type": "Gymnasium",
       "adress": {
         "street": "Östersjövägen 6",
@@ -27227,7 +27222,7 @@
     },
     {
       "id": 1992,
-      "name": "Fredriksdalskolan 7-9",
+      "name": "Fredriksdalskolan 7-9 LIDKÖPING",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Floragatan  4",
@@ -44685,7 +44680,7 @@
     },
     {
       "id": 6840,
-      "name": "Almunge skola",
+      "name": "Almunge skola ALMUNGE",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Almunge",
@@ -49249,7 +49244,7 @@
     },
     {
       "id": 7442,
-      "name": "Kvarnbergsskolan",
+      "name": "Kvarnbergsskolan KARLSTAD",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Ölmegatan 10",
@@ -51517,7 +51512,7 @@
     },
     {
       "id": 7927,
-      "name": "Stenhamreskolan F-9",
+      "name": "Stenhamreskolan F-9 LJUSDAL",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "",
@@ -56571,7 +56566,7 @@
     },
     {
       "id": 8865,
-      "name": "Fridhemsskolan",
+      "name": "Fridhemsskolan STORVRETA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Ärentunavägen 18 A",
