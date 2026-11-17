@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-16T02:03:14.435Z",
-  "syncedAt": "2026-11-16T02:03:02.993Z",
+  "generatedAt": "2026-11-17T02:03:15.746Z",
+  "syncedAt": "2026-11-17T02:03:04.359Z",
   "schools": [
     {
       "id": 2025,
@@ -2431,6 +2431,25 @@
         {
           "name": "NG Klara Teoretiska Gymnasium Stockholm Södra STOCKHOLM",
           "coach": "Sara Widell"
+        }
+      ]
+    },
+    {
+      "id": 10745,
+      "name": "Linköpings Idrottsgymnasium LINKÖPING",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Sankt Larsgatan 46",
+        "city": "Linköping",
+        "postalCode": 58224,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Linköpings Idrottsgymnasium LINKÖPING",
+          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -18332,7 +18351,7 @@
     },
     {
       "id": 2819,
-      "name": "Umeå Universitet Sollefteå",
+      "name": "Umeå Universitet SOLLEFTEÅ",
       "type": "Högskola/Universitet",
       "adress": {
         "street": "c/o Sollefteå Lärcenter Nipan 2",
@@ -22924,7 +22943,7 @@
     },
     {
       "id": 2499,
-      "name": "Vetlanda Friskola",
+      "name": "Vetlanda Friskola VETLANDA",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Flugebyvägen 4",
@@ -37302,7 +37321,7 @@
     },
     {
       "id": 3805,
-      "name": "Västerholms friskola",
+      "name": "Västerholms friskola SKÄRHOLMEN",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Vårbergsvägen 4143 -",
@@ -37890,7 +37909,7 @@
     },
     {
       "id": 3906,
-      "name": "Bikupan skola (7-9)",
+      "name": "Bikupan skola (7-9) LESSEBO",
       "type": "Övre grundskola (7-9)",
       "adress": {
         "street": "Herrgårdsgatan 9",
@@ -53766,7 +53785,7 @@
     },
     {
       "id": 8591,
-      "name": "Umeå Universitet",
+      "name": "Umeå Universitet UMEÅ",
       "type": "Högskola/Universitet",
       "adress": {
         "street": "",
@@ -55740,7 +55759,7 @@
     },
     {
       "id": 8713,
-      "name": "Umeå universitet",
+      "name": "Umeå universitet UMEÅ",
       "type": "Högskola/Universitet",
       "adress": {
         "street": "",
@@ -62004,20 +62023,6 @@
         "street": "Ågatan 3",
         "city": "Sjöbo",
         "postalCode": 27535,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 10745,
-      "name": "Linköpings Idrottsgymnasium LINKÖPING",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Sankt Larsgatan 46",
-        "city": "Linköping",
-        "postalCode": 58224,
         "country": "Sverige",
         "countryCode": "SE"
       },
