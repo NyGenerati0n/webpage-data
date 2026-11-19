@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-18T02:03:10.464Z",
-  "syncedAt": "2026-11-18T02:03:02.555Z",
+  "generatedAt": "2026-11-19T02:03:16.249Z",
+  "syncedAt": "2026-11-19T02:03:03.547Z",
   "schools": [
     {
       "id": 2025,
@@ -1618,25 +1618,6 @@
       ]
     },
     {
-      "id": 3731,
-      "name": "Täby Enskilda gymnasium TÄBY",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Kemistvägen 1",
-        "city": "TÄBY",
-        "postalCode": 18728,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Täby Enskilda gymnasium TÄBY",
-          "coach": "Sara Widell"
-        }
-      ]
-    },
-    {
       "id": 3969,
       "name": "Calmare Internationella Skola (CIS) KALMAR",
       "type": "Gymnasium",
@@ -1975,25 +1956,6 @@
         {
           "name": "NG Stureskolan BODEN",
           "coach": "Joel Hardeberg"
-        }
-      ]
-    },
-    {
-      "id": 8811,
-      "name": "Kunskapsskolan 6-9 GÄVLE",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Rynningsgatan 2",
-        "city": "GÄVLE",
-        "postalCode": 80256,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Kunskapsskolan 6-9 GÄVLE",
-          "coach": "Maja Karlsson"
         }
       ]
     },
@@ -36340,6 +36302,20 @@
       "groups": []
     },
     {
+      "id": 3731,
+      "name": "Täby Enskilda gymnasium TÄBY",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Kemistvägen 1",
+        "city": "TÄBY",
+        "postalCode": 18728,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 3732,
       "name": "Täby friskola Enhagenskolan",
       "type": "Övre grundskola (7-9)",
@@ -56353,6 +56329,20 @@
         "street": "Kullaviks Gullviveväg  21",
         "city": "KULLAVIK",
         "postalCode": 42933,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 8811,
+      "name": "Kunskapsskolan 6-9 GÄVLE",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Rynningsgatan 2",
+        "city": "GÄVLE",
+        "postalCode": 80256,
         "country": "Sverige",
         "countryCode": "SE"
       },
