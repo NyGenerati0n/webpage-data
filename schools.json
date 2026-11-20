@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T02:03:16.249Z",
-  "syncedAt": "2026-11-19T02:03:03.547Z",
+  "generatedAt": "2026-11-20T02:03:13.527Z",
+  "syncedAt": "2026-11-20T02:03:03.262Z",
   "schools": [
     {
       "id": 2025,
@@ -474,25 +474,6 @@
         {
           "name": "NG i byggnad 3, NTI Gymnasiet, UPPSALA",
           "coach": "Sara Widell"
-        }
-      ]
-    },
-    {
-      "id": 2862,
-      "name": "Hagabodaskolan HABO",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Kapellgatan 1",
-        "city": "HABO",
-        "postalCode": 56632,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Hagaboda HABO",
-          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -1048,25 +1029,6 @@
       ]
     },
     {
-      "id": 1764,
-      "name": "Kavelbrogymnasiet SKÖVDE",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Östergatan  26",
-        "city": "SKÖVDE",
-        "postalCode": 54136,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Kavelbrogymnasiet SKÖVDE",
-          "coach": "Hanna Johansson"
-        }
-      ]
-    },
-    {
       "id": 1775,
       "name": "Aleholmsskolan SÄVSJÖ",
       "type": "Gymnasium",
@@ -1576,25 +1538,6 @@
         {
           "name": "NG Falu Frigymnasium FALUN",
           "coach": "Hanna Ankarberg"
-        }
-      ]
-    },
-    {
-      "id": 2741,
-      "name": "Kunskapskällan HERRLJUNGA",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Västra Parkgatan 4",
-        "city": "HERRLJUNGA",
-        "postalCode": 52430,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Kunskapskällan HERRLJUNGA",
-          "coach": "Hanna Johansson"
         }
       ]
     },
@@ -18732,6 +18675,20 @@
       "groups": []
     },
     {
+      "id": 2862,
+      "name": "Hagabodaskolan HABO",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Kapellgatan 1",
+        "city": "HABO",
+        "postalCode": 56632,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2863,
       "name": "Mosaik Friskola F-9",
       "type": "Övre grundskola (7-9)",
@@ -26292,6 +26249,20 @@
       "groups": []
     },
     {
+      "id": 1764,
+      "name": "Kavelbrogymnasiet SKÖVDE",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Östergatan  26",
+        "city": "SKÖVDE",
+        "postalCode": 54136,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 1776,
       "name": "Hofgårdsskolan",
       "type": "Övre grundskola (7-9)",
@@ -28819,6 +28790,20 @@
         "street": "Nygatan 43  länsstyrelsen.",
         "city": "UMEÅ",
         "postalCode": 90108,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 2741,
+      "name": "Kunskapskällan HERRLJUNGA",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Västra Parkgatan 4",
+        "city": "HERRLJUNGA",
+        "postalCode": 52430,
         "country": "Sverige",
         "countryCode": "SE"
       },
