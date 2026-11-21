@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-20T02:03:13.527Z",
-  "syncedAt": "2026-11-20T02:03:03.262Z",
+  "generatedAt": "2026-11-21T02:03:12.386Z",
+  "syncedAt": "2026-11-21T02:03:03.176Z",
   "schools": [
     {
       "id": 2025,
@@ -307,25 +307,6 @@
       ]
     },
     {
-      "id": 2850,
-      "name": "Europaportens grundskola F-9 MALMÖ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Erik Perssons väg 10",
-        "city": "MALMÖ",
-        "postalCode": 21762,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Europaportens grundskola F-9 MALMÖ",
-          "coach": "Felipe Arffman"
-        }
-      ]
-    },
-    {
       "id": 3044,
       "name": "Ekhammarskolan KUNGSÄNGEN",
       "type": "Övre grundskola (7-9)",
@@ -341,25 +322,6 @@
         {
           "name": "NG Ekhammarskolan KUNGSÄNGEN",
           "coach": "Sara Widell"
-        }
-      ]
-    },
-    {
-      "id": 7062,
-      "name": "Enebyskolan NORRKÖPING",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Taborsbergsvägen 83",
-        "city": "NORRKÖPING",
-        "postalCode": 60208,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Enebyskolan NORRKÖPING",
-          "coach": "Joel Hardeberg"
         }
       ]
     },
@@ -9897,6 +9859,20 @@
       "groups": []
     },
     {
+      "id": 2850,
+      "name": "Europaportens grundskola F-9 MALMÖ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Erik Perssons väg 10",
+        "city": "MALMÖ",
+        "postalCode": 21762,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 2860,
       "name": "Sandeplanskolan F-9",
       "type": "Övre grundskola (7-9)",
@@ -12550,6 +12526,20 @@
         "street": "Korsängsgatan 38",
         "city": "ENKÖPING",
         "postalCode": 74949,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 7062,
+      "name": "Enebyskolan NORRKÖPING",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Taborsbergsvägen 83",
+        "city": "NORRKÖPING",
+        "postalCode": 60208,
         "country": "Sverige",
         "countryCode": "SE"
       },
@@ -62180,6 +62170,20 @@
         "street": "Korsgatan 22",
         "city": "Vänersborg",
         "postalCode": 46236,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
+      "id": 11569,
+      "name": "LBS Kreativa Gymnasiet TROLLHÄTTAN",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Österlånggatan 55",
+        "city": "Trollhättan",
+        "postalCode": 46134,
         "country": "Sverige",
         "countryCode": "SE"
       },
