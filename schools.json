@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-23T02:03:17.848Z",
-  "syncedAt": "2026-11-23T02:03:03.722Z",
+  "generatedAt": "2026-11-24T02:03:13.192Z",
+  "syncedAt": "2026-11-24T02:03:04.133Z",
   "schools": [
     {
       "id": 2025,
@@ -1175,7 +1175,7 @@
       "isActive": true,
       "groups": [
         {
-          "name": "Eklesia TRANÅS",
+          "name": "Eklesia Holavedsgymnasiet TRANÅS",
           "coach": "Hanna Johansson"
         }
       ]
