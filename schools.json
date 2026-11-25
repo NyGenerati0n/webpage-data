@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T02:03:13.192Z",
-  "syncedAt": "2026-11-24T02:03:04.133Z",
+  "generatedAt": "2026-11-25T02:03:26.582Z",
+  "syncedAt": "2026-11-25T02:03:05.910Z",
   "schools": [
     {
       "id": 2025,
@@ -340,25 +340,6 @@
       "groups": [
         {
           "name": "NG Minervagymnasium UMEÅ",
-          "coach": "Joel Hardeberg"
-        }
-      ]
-    },
-    {
-      "id": 6511,
-      "name": "Minervaskolan UMEÅ",
-      "type": "Övre grundskola (7-9)",
-      "adress": {
-        "street": "Nygatan 47",
-        "city": "UMEÅ",
-        "postalCode": 90330,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": true,
-      "groups": [
-        {
-          "name": "NG Minervaskolan UMEÅ",
           "coach": "Joel Hardeberg"
         }
       ]
@@ -892,6 +873,25 @@
         {
           "name": "NG Sävsjö kristna skola SÄVSJÖ",
           "coach": "Hanna Johansson"
+        }
+      ]
+    },
+    {
+      "id": 2623,
+      "name": "Torsbergsgymnasiet BOLLNÄS",
+      "type": "Gymnasium",
+      "adress": {
+        "street": "Läroverksgatan  36",
+        "city": "BOLLNÄS",
+        "postalCode": 82133,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": true,
+      "groups": [
+        {
+          "name": "NG Torsbergsgymnasiet BOLLNÄS",
+          "coach": "Maja Karlsson"
         }
       ]
     },
@@ -13303,6 +13303,20 @@
       "groups": []
     },
     {
+      "id": 6511,
+      "name": "Minervaskolan UMEÅ",
+      "type": "Övre grundskola (7-9)",
+      "adress": {
+        "street": "Nygatan 47",
+        "city": "UMEÅ",
+        "postalCode": 90330,
+        "country": "Sverige",
+        "countryCode": "SE"
+      },
+      "isActive": false,
+      "groups": []
+    },
+    {
       "id": 6512,
       "name": "Mobackenskolan F - 5",
       "type": "Övre grundskola (7-9)",
@@ -23348,20 +23362,6 @@
         "street": "Kyrkogatan  26",
         "city": "TÖREBODA",
         "postalCode": 54521,
-        "country": "Sverige",
-        "countryCode": "SE"
-      },
-      "isActive": false,
-      "groups": []
-    },
-    {
-      "id": 2623,
-      "name": "Torsbergsgymnasiet BOLLNÄS",
-      "type": "Gymnasium",
-      "adress": {
-        "street": "Läroverksgatan  36",
-        "city": "BOLLNÄS",
-        "postalCode": 82133,
         "country": "Sverige",
         "countryCode": "SE"
       },
